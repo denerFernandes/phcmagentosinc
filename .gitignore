@@ -1,0 +1,7 @@
+build/
+docs/
+reports/
+vendor/
+phcmagentosinc.log
+composer.lock
+config.ini

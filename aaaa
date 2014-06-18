@@ -1,0 +1,5597 @@
+array(373) {
+  [0]=>
+  object(PHC\Artigo)#117 (6) {
+    ["ref"]=>
+    string(6) "SCFB27"
+    ["design"]=>
+    string(60) "O&E Board Skin Fish Cover                                   "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(0) ""
+  }
+  [1]=>
+  object(PHC\Artigo)#118 (6) {
+    ["ref"]=>
+    string(11) "EAQYFL00006"
+    ["design"]=>
+    string(60) "SYNCHRO MENS4/3                                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [2]=>
+  object(PHC\Artigo)#119 (6) {
+    ["ref"]=>
+    string(11) "EARGW100004"
+    ["design"]=>
+    string(60) "SYNCRO ROXY GIR                                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [3]=>
+  object(PHC\Artigo)#120 (6) {
+    ["ref"]=>
+    string(10) "F4BT25BIW0"
+    ["design"]=>
+    string(60) "BOOTS BB REEF                                               "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [4]=>
+  object(PHC\Artigo)#121 (6) {
+    ["ref"]=>
+    string(10) "48130-4152"
+    ["design"]=>
+    string(60) "ION 2013 VECTOR VEST                                        "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "38"
+  }
+  [5]=>
+  object(PHC\Artigo)#122 (6) {
+    ["ref"]=>
+    string(7) "SS13130"
+    ["design"]=>
+    string(60) " Slingshot 2013 - RALLY                                     "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "7"
+  }
+  [6]=>
+  object(PHC\Artigo)#123 (6) {
+    ["ref"]=>
+    string(15) "WACB3EXTENSORET"
+    ["design"]=>
+    string(60) "Extensor  B3 c/ copo SINGLE PIN                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [7]=>
+  object(PHC\Artigo)#124 (6) {
+    ["ref"]=>
+    string(18) "WACB3EXTENSORRDMCE"
+    ["design"]=>
+    string(60) "EXTENSOR B3 RDM C/COPO SP CARBONO                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [8]=>
+  object(PHC\Artigo)#125 (6) {
+    ["ref"]=>
+    string(17) "WACB3EXTENSORRDMC"
+    ["design"]=>
+    string(60) "EXTENSOR B3 RDM C/COPO WPIN                                 "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [9]=>
+  object(PHC\Artigo)#126 (6) {
+    ["ref"]=>
+    string(18) "WACB3EXTENSORRDMCC"
+    ["design"]=>
+    string(60) "EXTENSOR B3 RDM c/COPO WPIN CARBONO                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [10]=>
+  object(PHC\Artigo)#127 (6) {
+    ["ref"]=>
+    string(16) "SACNAPADDEDBAG10"
+    ["design"]=>
+    string(60) "Naish 2010 - Padded Mast Bag 300                            "
+    ["epv1"]=>
+    string(9) "80.000000"
+    ["epv2"]=>
+    string(9) "80.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [11]=>
+  object(PHC\Artigo)#128 (6) {
+    ["ref"]=>
+    string(17) "SACISBAGTRAVELREF"
+    ["design"]=>
+    string(60) "Island Style Board Bag travel                               "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(0) ""
+  }
+  [12]=>
+  object(PHC\Artigo)#129 (6) {
+    ["ref"]=>
+    string(12) "2105-550-00A"
+    ["design"]=>
+    string(60) "FCS CALF STRAP BLACK                                        "
+    ["epv1"]=>
+    string(9) "15.000000"
+    ["epv2"]=>
+    string(9) "15.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [13]=>
+  object(PHC\Artigo)#130 (6) {
+    ["ref"]=>
+    string(7) "CH410WS"
+    ["design"]=>
+    string(60) "CYPHER ROXY 4/3 CHEST ZIP STEAMER                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [14]=>
+  object(PHC\Artigo)#131 (6) {
+    ["ref"]=>
+    string(5) "13Z00"
+    ["design"]=>
+    string(60) "NAISH 2013 Universal Control System                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "12"
+  }
+  [15]=>
+  object(PHC\Artigo)#132 (6) {
+    ["ref"]=>
+    string(6) "13KFKO"
+    ["design"]=>
+    string(60) "NAISH 2013  FLY   Kite Only                                 "
+    ["epv1"]=>
+    string(11) "1499.000000"
+    ["epv2"]=>
+    string(11) "1499.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "7"
+  }
+  [16]=>
+  object(PHC\Artigo)#133 (6) {
+    ["ref"]=>
+    string(6) "13KPKO"
+    ["design"]=>
+    string(60) "NAISH 2013 PARK     Kite Only                               "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "7"
+  }
+  [17]=>
+  object(PHC\Artigo)#134 (6) {
+    ["ref"]=>
+    string(18) "WACB3EXTENSORRDMET"
+    ["design"]=>
+    string(60) "Extensor B3 RDM C/COPO SINGLE PIN                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [18]=>
+  object(PHC\Artigo)#135 (6) {
+    ["ref"]=>
+    string(7) "SACSASS"
+    ["design"]=>
+    string(60) "SET DE FINS DESMONTAVEIS SISTEMA FCS                        "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "25"
+  }
+  [19]=>
+  object(PHC\Artigo)#136 (6) {
+    ["ref"]=>
+    string(15) "WMAGSCROSSRDM10"
+    ["design"]=>
+    string(60) "GunSails  - Cross RDM                                       "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "17"
+  }
+  [20]=>
+  object(PHC\Artigo)#137 (6) {
+    ["ref"]=>
+    string(16) "WMAGSEXPERTRDM10"
+    ["design"]=>
+    string(60) "GunSails  - Expert RDM                                      "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "17"
+  }
+  [21]=>
+  object(PHC\Artigo)#138 (6) {
+    ["ref"]=>
+    string(13) "ION48120-8140"
+    ["design"]=>
+    string(60) "ION SINGLE BOARDBAG SURF                                    "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "21"
+  }
+  [22]=>
+  object(PHC\Artigo)#139 (6) {
+    ["ref"]=>
+    string(6) "13KRKO"
+    ["design"]=>
+    string(60) "NAIS 2013 RIDE KITE ONLY                                    "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "7"
+  }
+  [23]=>
+  object(PHC\Artigo)#140 (6) {
+    ["ref"]=>
+    string(15) "KARDKHAMMERHEAD"
+    ["design"]=>
+    string(60) "BARRA DE KITE SURF DAKINE HAMMERHEAD                        "
+    ["epv1"]=>
+    string(9) "29.800000"
+    ["epv2"]=>
+    string(9) "29.800000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "20"
+  }
+  [24]=>
+  object(PHC\Artigo)#141 (6) {
+    ["ref"]=>
+    string(13) "KARDKSPREADER"
+    ["design"]=>
+    string(60) "SPREADER BAR PAD DAKINE                                     "
+    ["epv1"]=>
+    string(9) "14.000000"
+    ["epv2"]=>
+    string(9) "14.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "20"
+  }
+  [25]=>
+  object(PHC\Artigo)#142 (6) {
+    ["ref"]=>
+    string(12) "SUPHOKUA2013"
+    ["design"]=>
+    string(60) "NAISH 2013 - HOKUA                                          "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "42"
+  }
+  [26]=>
+  object(PHC\Artigo)#143 (6) {
+    ["ref"]=>
+    string(9) "SUPKA2013"
+    ["design"]=>
+    string(60) "NAISH 2013 - KAHOLO                                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "43"
+  }
+  [27]=>
+  object(PHC\Artigo)#144 (6) {
+    ["ref"]=>
+    string(9) "SUPMA2013"
+    ["design"]=>
+    string(60) "NAISH 2013 - MAKANI                                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "43"
+  }
+  [28]=>
+  object(PHC\Artigo)#145 (6) {
+    ["ref"]=>
+    string(9) "IH409MLCZ"
+    ["design"]=>
+    string(60) "Quiksilver Ignite CZ 4/3                                    "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [29]=>
+  object(PHC\Artigo)#146 (6) {
+    ["ref"]=>
+    string(10) "L44M05BIW2"
+    ["design"]=>
+    string(60) "BB Revolution CZ 4/3                                        "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [30]=>
+  object(PHC\Artigo)#147 (6) {
+    ["ref"]=>
+    string(10) "L44M06BIW2"
+    ["design"]=>
+    string(60) "BB Revolution BZ 4/3                                        "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [31]=>
+  object(PHC\Artigo)#148 (6) {
+    ["ref"]=>
+    string(8) "14WKBHER"
+    ["design"]=>
+    string(60) "NAISH 2013 HERO (no footstraps)                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [32]=>
+  object(PHC\Artigo)#149 (6) {
+    ["ref"]=>
+    string(8) "14WKBMON"
+    ["design"]=>
+    string(60) "NAISH 2013 MONARCH (no footstraps)                          "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [33]=>
+  object(PHC\Artigo)#150 (6) {
+    ["ref"]=>
+    string(8) "14WKBDUB"
+    ["design"]=>
+    string(60) "NAISH 2013 DUB (no footstraps)                              "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [34]=>
+  object(PHC\Artigo)#151 (6) {
+    ["ref"]=>
+    string(8) "14WKBMOT"
+    ["design"]=>
+    string(60) "NAISH 2013 MOTION (no footstraps)                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [35]=>
+  object(PHC\Artigo)#152 (6) {
+    ["ref"]=>
+    string(10) "48120-4111"
+    ["design"]=>
+    string(60) "Zip Top Men 2/1 LS 2014                                     "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    NULL
+  }
+  [36]=>
+  object(PHC\Artigo)#153 (6) {
+    ["ref"]=>
+    string(9) "BB253WS14"
+    ["design"]=>
+    string(60) "BB XERO REVOLUTION GIRL 4/3 CZ                              "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [37]=>
+  object(PHC\Artigo)#154 (6) {
+    ["ref"]=>
+    string(9) "BB263WS08"
+    ["design"]=>
+    string(60) "BB SALTY DAYZ CZ                                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [38]=>
+  object(PHC\Artigo)#155 (6) {
+    ["ref"]=>
+    string(9) "BB261OO08"
+    ["design"]=>
+    string(60) "BB BOOTS FOIL 3MM SPLIT TOE                                 "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [39]=>
+  object(PHC\Artigo)#156 (6) {
+    ["ref"]=>
+    string(9) "BB261OO01"
+    ["design"]=>
+    string(60) "BB BOOTS XERO FURNACE 3MM                                   "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [40]=>
+  object(PHC\Artigo)#157 (6) {
+    ["ref"]=>
+    string(9) "BB261OO03"
+    ["design"]=>
+    string(60) "BB BOOTS XERO ENDURO 3MM                                    "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [41]=>
+  object(PHC\Artigo)#158 (6) {
+    ["ref"]=>
+    string(9) "BB261DV02"
+    ["design"]=>
+    string(60) "BB HOOD XERO FURNACE 2MM                                    "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [42]=>
+  object(PHC\Artigo)#159 (6) {
+    ["ref"]=>
+    string(9) "BB261GL03"
+    ["design"]=>
+    string(60) "BB GLOVES XERO FURNACE ENDURO                               "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [43]=>
+  object(PHC\Artigo)#160 (6) {
+    ["ref"]=>
+    string(9) "BB261GL08"
+    ["design"]=>
+    string(60) "BB GLOVES FOIL 2MM                                          "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [44]=>
+  object(PHC\Artigo)#161 (6) {
+    ["ref"]=>
+    string(9) "BB233LY02"
+    ["design"]=>
+    string(60) "BB LICRA FURNACE                                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [45]=>
+  object(PHC\Artigo)#162 (6) {
+    ["ref"]=>
+    string(7) "3MSR400"
+    ["design"]=>
+    string(60) "Gun Mast Select RDM 400                                     "
+    ["epv1"]=>
+    string(10) "349.000000"
+    ["epv2"]=>
+    string(10) "349.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "17"
+  }
+  [46]=>
+  object(PHC\Artigo)#163 (6) {
+    ["ref"]=>
+    string(10) "12TBA23055"
+    ["design"]=>
+    string(60) "GUN BOADRBAG AIR TRAVEL 230/55                              "
+    ["epv1"]=>
+    string(9) "85.000000"
+    ["epv2"]=>
+    string(9) "85.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(0) ""
+  }
+  [47]=>
+  object(PHC\Artigo)#164 (6) {
+    ["ref"]=>
+    string(10) "12TBB23055"
+    ["design"]=>
+    string(60) "Gun BOARDBAG CLASSIC 230/55                                 "
+    ["epv1"]=>
+    string(9) "75.000000"
+    ["epv2"]=>
+    string(9) "75.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(0) ""
+  }
+  [48]=>
+  object(PHC\Artigo)#165 (6) {
+    ["ref"]=>
+    string(10) "48130-4153"
+    ["design"]=>
+    string(60) "ION Lunis Vest 2013                                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "38"
+  }
+  [49]=>
+  object(PHC\Artigo)#166 (6) {
+    ["ref"]=>
+    string(10) "48130-4154"
+    ["design"]=>
+    string(60) "ION Ivy Vest 2013                                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "38"
+  }
+  [50]=>
+  object(PHC\Artigo)#167 (6) {
+    ["ref"]=>
+    string(11) "IO480704073"
+    ["design"]=>
+    string(60) "ION CLAW GLOVES                                             "
+    ["epv1"]=>
+    string(9) "39.900000"
+    ["epv2"]=>
+    string(9) "39.900000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [51]=>
+  object(PHC\Artigo)#168 (6) {
+    ["ref"]=>
+    string(10) "48402-4704"
+    ["design"]=>
+    string(60) "Kite Waist Harness - Rival 2014                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [52]=>
+  object(PHC\Artigo)#169 (6) {
+    ["ref"]=>
+    string(10) "48402-4732"
+    ["design"]=>
+    string(60) "Surf Waist Harness - Ruler 2014                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "19"
+  }
+  [53]=>
+  object(PHC\Artigo)#170 (6) {
+    ["ref"]=>
+    string(10) "48402-4450"
+    ["design"]=>
+    string(60) "Wetsuit BS - Element Semidry 5,5 DL 2014                    "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    NULL
+  }
+  [54]=>
+  object(PHC\Artigo)#171 (6) {
+    ["ref"]=>
+    string(10) "48402-4471"
+    ["design"]=>
+    string(60) "Wetsuit BS - Onyx Semidry 4/3 DL 2014                       "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    NULL
+  }
+  [55]=>
+  object(PHC\Artigo)#172 (6) {
+    ["ref"]=>
+    string(10) "48402-4434"
+    ["design"]=>
+    string(60) "Wetsuit BS - Strike Semidry 5,5 DL 2014                     "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    NULL
+  }
+  [56]=>
+  object(PHC\Artigo)#173 (6) {
+    ["ref"]=>
+    string(11) "EAQYFL00020"
+    ["design"]=>
+    string(60) "IGNITE MENS 4/3                                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [57]=>
+  object(PHC\Artigo)#174 (6) {
+    ["ref"]=>
+    string(7) "14KPAKO"
+    ["design"]=>
+    string(60) "NAISH 2014 PARK     Kite Only                               "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "7"
+  }
+  [58]=>
+  object(PHC\Artigo)#175 (6) {
+    ["ref"]=>
+    string(11) "DK0078BB015"
+    ["design"]=>
+    string(60) "Capa Surf Dakine 6´0" Daylite-Thruster                      "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(0) ""
+  }
+  [59]=>
+  object(PHC\Artigo)#176 (6) {
+    ["ref"]=>
+    string(11) "DK0078BB016"
+    ["design"]=>
+    string(60) "Capa Surf Dakine 6´3" Daylite-Thruster                      "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(0) ""
+  }
+  [60]=>
+  object(PHC\Artigo)#177 (6) {
+    ["ref"]=>
+    string(11) "DK0078BB018"
+    ["design"]=>
+    string(60) "Capa Surf Dakine 7´0" Daylite-Thruster                      "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(0) ""
+  }
+  [61]=>
+  object(PHC\Artigo)#178 (6) {
+    ["ref"]=>
+    string(11) "DK0078BB031"
+    ["design"]=>
+    string(60) "Capa Surf DK 6.6 Daylight Deluxe Thruster                   "
+    ["epv1"]=>
+    string(9) "72.500000"
+    ["epv2"]=>
+    string(9) "72.500000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(0) ""
+  }
+  [62]=>
+  object(PHC\Artigo)#179 (6) {
+    ["ref"]=>
+    string(9) "XL241WS01"
+    ["design"]=>
+    string(60) "Xcel Infiniti 4/3 Revolt X2                                 "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [63]=>
+  object(PHC\Artigo)#180 (6) {
+    ["ref"]=>
+    string(10) "SBI D4BP20"
+    ["design"]=>
+    string(60) "SACO Bilabong para FATO                                     "
+    ["epv1"]=>
+    string(9) "43.000000"
+    ["epv2"]=>
+    string(9) "32.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [64]=>
+  object(PHC\Artigo)#181 (6) {
+    ["ref"]=>
+    string(10) "SPRKJSTORM"
+    ["design"]=>
+    string(60) "PRANCHA STORM 6.4                                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "9"
+  }
+  [65]=>
+  object(PHC\Artigo)#182 (6) {
+    ["ref"]=>
+    string(10) "EKIO ARNES"
+    ["design"]=>
+    string(60) "ARNES ION JADE                                              "
+    ["epv1"]=>
+    string(10) "129.000000"
+    ["epv2"]=>
+    string(9) "84.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "19"
+  }
+  [66]=>
+  object(PHC\Artigo)#183 (6) {
+    ["ref"]=>
+    string(15) "TB-GS01P060000W"
+    ["design"]=>
+    string(60) "7S Fuse 60 Clear                                            "
+    ["epv1"]=>
+    string(10) "350.000000"
+    ["epv2"]=>
+    string(10) "350.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(1) "9"
+  }
+  [67]=>
+  object(PHC\Artigo)#184 (6) {
+    ["ref"]=>
+    string(13) "TB-GS01P0600A"
+    ["design"]=>
+    string(60) "7S Fuse 60 Clear - Poly                                     "
+    ["epv1"]=>
+    string(10) "365.000000"
+    ["epv2"]=>
+    string(10) "365.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(1) "9"
+  }
+  [68]=>
+  object(PHC\Artigo)#185 (6) {
+    ["ref"]=>
+    string(13) "DK0078AR00213"
+    ["design"]=>
+    string(60) "Dakine Pyro 2013                                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [69]=>
+  object(PHC\Artigo)#186 (6) {
+    ["ref"]=>
+    string(11) "DK0078DV013"
+    ["design"]=>
+    string(60) "Dakine Barra Arnês Kite Hammerhead                          "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "20"
+  }
+  [70]=>
+  object(PHC\Artigo)#187 (6) {
+    ["ref"]=>
+    string(11) "DK0078DV015"
+    ["design"]=>
+    string(60) "Dakine Spreader Bar pad 10"                                 "
+    ["epv1"]=>
+    string(9) "16.000000"
+    ["epv2"]=>
+    string(9) "16.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "20"
+  }
+  [71]=>
+  object(PHC\Artigo)#188 (6) {
+    ["ref"]=>
+    string(11) "BB1973WS002"
+    ["design"]=>
+    string(60) "FATO SURF BILLABONG SYNERGY 4/3 B-ZIP                       "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [72]=>
+  object(PHC\Artigo)#189 (6) {
+    ["ref"]=>
+    string(8) "SDA81088"
+    ["design"]=>
+    string(60) "BLOOB 1 0Z.KIT                                              "
+    ["epv1"]=>
+    string(9) "15.000000"
+    ["epv2"]=>
+    string(9) "15.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "25"
+  }
+  [73]=>
+  object(PHC\Artigo)#190 (6) {
+    ["ref"]=>
+    string(6) "SDA231"
+    ["design"]=>
+    string(60) "DING ALL STANDART POLYESTER KIT                             "
+    ["epv1"]=>
+    string(9) "19.000000"
+    ["epv2"]=>
+    string(9) "19.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "25"
+  }
+  [74]=>
+  object(PHC\Artigo)#191 (6) {
+    ["ref"]=>
+    string(11) "DK0071FL009"
+    ["design"]=>
+    string(60) "Leash Dakine Longbrd Kainui(Calf) 10´X 1/4"                 "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [75]=>
+  object(PHC\Artigo)#192 (6) {
+    ["ref"]=>
+    string(11) "DK0078DV025"
+    ["design"]=>
+    string(60) "Dakine Knife w/Pocket                                       "
+    ["epv1"]=>
+    string(8) "9.000000"
+    ["epv2"]=>
+    string(8) "9.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "20"
+  }
+  [76]=>
+  object(PHC\Artigo)#193 (6) {
+    ["ref"]=>
+    string(11) "DK0078NL003"
+    ["design"]=>
+    string(60) "Dakine Kainui 7x1/4                                         "
+    ["epv1"]=>
+    string(9) "29.500000"
+    ["epv2"]=>
+    string(9) "29.500000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [77]=>
+  object(PHC\Artigo)#194 (6) {
+    ["ref"]=>
+    string(11) "DK0078NL020"
+    ["design"]=>
+    string(60) "Leash Longboard Dakine Kainui(Calf) 9´X 1/4"                "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [78]=>
+  object(PHC\Artigo)#195 (6) {
+    ["ref"]=>
+    string(11) "DK0078NL002"
+    ["design"]=>
+    string(60) "Dakine Kainui 6x1/4                                         "
+    ["epv1"]=>
+    string(9) "27.500000"
+    ["epv2"]=>
+    string(9) "27.500000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [79]=>
+  object(PHC\Artigo)#196 (6) {
+    ["ref"]=>
+    string(7) "SA409MG"
+    ["design"]=>
+    string(60) "Quiksilver Syncro Man 4/3                                   "
+    ["epv1"]=>
+    string(10) "170.000000"
+    ["epv2"]=>
+    string(10) "170.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [80]=>
+  object(PHC\Artigo)#197 (6) {
+    ["ref"]=>
+    string(6) "SSC223"
+    ["design"]=>
+    string(60) "SUN CURE FIBERFILL  KIT                                     "
+    ["epv1"]=>
+    string(9) "19.000000"
+    ["epv2"]=>
+    string(9) "19.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "25"
+  }
+  [81]=>
+  object(PHC\Artigo)#198 (6) {
+    ["ref"]=>
+    string(10) "48130-8303"
+    ["design"]=>
+    string(60) "ION Revolt Waist Harness 2013                               "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [82]=>
+  object(PHC\Artigo)#199 (6) {
+    ["ref"]=>
+    string(10) "48130-8304"
+    ["design"]=>
+    string(60) "ION Rival Waist Harness 2013                                "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [83]=>
+  object(PHC\Artigo)#200 (6) {
+    ["ref"]=>
+    string(10) "48120-8110"
+    ["design"]=>
+    string(60) "ION Suspect Bag                                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "21"
+  }
+  [84]=>
+  object(PHC\Artigo)#201 (6) {
+    ["ref"]=>
+    string(10) "48130-8114"
+    ["design"]=>
+    string(60) "ION - Gearbag 1/3 Golf                                      "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "21"
+  }
+  [85]=>
+  object(PHC\Artigo)#202 (6) {
+    ["ref"]=>
+    string(10) "48120-8003"
+    ["design"]=>
+    string(60) "ION - Footstrap Surf                                        "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "20"
+  }
+  [86]=>
+  object(PHC\Artigo)#203 (6) {
+    ["ref"]=>
+    string(14) "BSP-ADJ-PB-CHA"
+    ["design"]=>
+    string(60) "FCS Paddle Cover Adjustable Charcoal                        "
+    ["epv1"]=>
+    string(9) "28.000000"
+    ["epv2"]=>
+    string(9) "28.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "43"
+  }
+  [87]=>
+  object(PHC\Artigo)#204 (6) {
+    ["ref"]=>
+    string(6) "AM45ET"
+    ["design"]=>
+    string(60) "extensor de mastro b3 45cm                                  "
+    ["epv1"]=>
+    string(9) "56.000000"
+    ["epv2"]=>
+    string(9) "56.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [88]=>
+  object(PHC\Artigo)#205 (6) {
+    ["ref"]=>
+    string(6) "OETP13"
+    ["design"]=>
+    string(60) "Ocean Earth SUP Deck Pad (11 piece)                         "
+    ["epv1"]=>
+    string(10) "129.550000"
+    ["epv2"]=>
+    string(10) "129.550000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "29"
+  }
+  [89]=>
+  object(PHC\Artigo)#206 (6) {
+    ["ref"]=>
+    string(6) "SCSB22"
+    ["design"]=>
+    string(60) "O&E Barry Basic Surboard cover                              "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(0) ""
+  }
+  [90]=>
+  object(PHC\Artigo)#207 (6) {
+    ["ref"]=>
+    string(6) "SARE12"
+    ["design"]=>
+    string(60) "O&E UV Solarcure Resin 1/2 Oz                               "
+    ["epv1"]=>
+    string(8) "7.900000"
+    ["epv2"]=>
+    string(8) "7.900000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "25"
+  }
+  [91]=>
+  object(PHC\Artigo)#208 (6) {
+    ["ref"]=>
+    string(5) "MB100"
+    ["design"]=>
+    string(60) "Naish SUP Mana Bag 10.0                                     "
+    ["epv1"]=>
+    string(10) "229.000000"
+    ["epv2"]=>
+    string(10) "229.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "25"
+  }
+  [92]=>
+  object(PHC\Artigo)#209 (6) {
+    ["ref"]=>
+    string(8) "TORQFISH"
+    ["design"]=>
+    string(60) "Torq Fish 2013                                              "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "9"
+  }
+  [93]=>
+  object(PHC\Artigo)#210 (6) {
+    ["ref"]=>
+    string(4) "CHVP"
+    ["design"]=>
+    string(60) "Chinnok válvula plástico                                    "
+    ["epv1"]=>
+    string(8) "5.250000"
+    ["epv2"]=>
+    string(8) "5.250000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [94]=>
+  object(PHC\Artigo)#211 (6) {
+    ["ref"]=>
+    string(5) "CHTAV"
+    ["design"]=>
+    string(60) "Chinook Tornillo Aluminio valvula m/ junta torica           "
+    ["epv1"]=>
+    string(8) "8.000000"
+    ["epv2"]=>
+    string(8) "8.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [95]=>
+  object(PHC\Artigo)#212 (6) {
+    ["ref"]=>
+    string(5) "CHTPV"
+    ["design"]=>
+    string(60) "Chinook Tornillo Plástico valvula m/ junta torica           "
+    ["epv1"]=>
+    string(8) "4.000000"
+    ["epv2"]=>
+    string(8) "4.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [96]=>
+  object(PHC\Artigo)#213 (6) {
+    ["ref"]=>
+    string(6) "AMMC04"
+    ["design"]=>
+    string(60) "Iphone 4 waterproof case                                    "
+    ["epv1"]=>
+    string(9) "46.000000"
+    ["epv2"]=>
+    string(9) "46.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "25"
+  }
+  [97]=>
+  object(PHC\Artigo)#214 (6) {
+    ["ref"]=>
+    string(6) "AMMC22"
+    ["design"]=>
+    string(60) "O&E change mat                                              "
+    ["epv1"]=>
+    string(9) "36.000000"
+    ["epv2"]=>
+    string(9) "36.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "25"
+  }
+  [98]=>
+  object(PHC\Artigo)#215 (6) {
+    ["ref"]=>
+    string(5) "15000"
+    ["design"]=>
+    string(60) "Ocean Sunglasses Cumbuco                                    "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "17"
+  }
+  [99]=>
+  object(PHC\Artigo)#216 (6) {
+    ["ref"]=>
+    string(7) "11700.0"
+    ["design"]=>
+    string(60) "Ocean Sunglasses Australia                                  "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "17"
+  }
+  [100]=>
+  object(PHC\Artigo)#217 (6) {
+    ["ref"]=>
+    string(7) "12200.0"
+    ["design"]=>
+    string(60) "Ocean Sunglasses Tierra de Fuego                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "17"
+  }
+  [101]=>
+  object(PHC\Artigo)#218 (6) {
+    ["ref"]=>
+    string(9) "CODEEPOXY"
+    ["design"]=>
+    string(60) "Code Surfboards Epoxy                                       "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "9"
+  }
+  [102]=>
+  object(PHC\Artigo)#219 (6) {
+    ["ref"]=>
+    string(13) "CODEPOLYESTER"
+    ["design"]=>
+    string(60) "Code Surfboards Polyester                                   "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "9"
+  }
+  [103]=>
+  object(PHC\Artigo)#220 (6) {
+    ["ref"]=>
+    string(10) "NSPELEMENT"
+    ["design"]=>
+    string(60) "NSP Element                                                 "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "9"
+  }
+  [104]=>
+  object(PHC\Artigo)#221 (6) {
+    ["ref"]=>
+    string(10) "12TBB24060"
+    ["design"]=>
+    string(60) "Gun Boardbag Classic 240/60                                 "
+    ["epv1"]=>
+    string(9) "75.000000"
+    ["epv2"]=>
+    string(9) "75.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(0) ""
+  }
+  [105]=>
+  object(PHC\Artigo)#222 (6) {
+    ["ref"]=>
+    string(10) "12TBB25080"
+    ["design"]=>
+    string(60) "Gun Boardbag Classic 250/80                                 "
+    ["epv1"]=>
+    string(9) "76.000000"
+    ["epv2"]=>
+    string(9) "76.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [106]=>
+  object(PHC\Artigo)#223 (6) {
+    ["ref"]=>
+    string(6) "0GC180"
+    ["design"]=>
+    string(60) "Gun Boom Cross 180-230                                      "
+    ["epv1"]=>
+    string(10) "171.000000"
+    ["epv2"]=>
+    string(10) "171.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "16"
+  }
+  [107]=>
+  object(PHC\Artigo)#224 (6) {
+    ["ref"]=>
+    string(6) "ESA218"
+    ["design"]=>
+    string(60) "QS Syncro Youth 1.5mm                                       "
+    ["epv1"]=>
+    string(9) "32.000000"
+    ["epv2"]=>
+    string(9) "32.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [108]=>
+  object(PHC\Artigo)#225 (6) {
+    ["ref"]=>
+    string(11) "K47EVO82012"
+    ["design"]=>
+    string(60) "NKB Evo 8 2012                                              "
+    ["epv1"]=>
+    string(10) "500.000000"
+    ["epv2"]=>
+    string(10) "500.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [109]=>
+  object(PHC\Artigo)#226 (6) {
+    ["ref"]=>
+    string(13) "FQDV2FAM1/375"
+    ["design"]=>
+    string(60) "Future vector II Al Merrick Quad Nat Comp 375               "
+    ["epv1"]=>
+    string(9) "39.000000"
+    ["epv2"]=>
+    string(9) "39.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [110]=>
+  object(PHC\Artigo)#227 (6) {
+    ["ref"]=>
+    string(5) "Q-PC5"
+    ["design"]=>
+    string(60) "FCS Fins Q-PC5                                              "
+    ["epv1"]=>
+    string(10) "105.000000"
+    ["epv2"]=>
+    string(10) "105.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [111]=>
+  object(PHC\Artigo)#228 (6) {
+    ["ref"]=>
+    string(11) "EARJW100003"
+    ["design"]=>
+    string(60) "SYNCRO ROXY 4/3                                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [112]=>
+  object(PHC\Artigo)#229 (6) {
+    ["ref"]=>
+    string(9) "141301400"
+    ["design"]=>
+    string(60) "NorthSails Boom Red series                                  "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "16"
+  }
+  [113]=>
+  object(PHC\Artigo)#230 (6) {
+    ["ref"]=>
+    string(6) "N4INC4"
+    ["design"]=>
+    string(60) "Xcel Infiniti xZip2 comp 4/3                                "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [114]=>
+  object(PHC\Artigo)#231 (6) {
+    ["ref"]=>
+    string(6) "N4BT67"
+    ["design"]=>
+    string(60) "Botas Xcel 3mm Neo Dipped                                   "
+    ["epv1"]=>
+    string(9) "59.900000"
+    ["epv2"]=>
+    string(9) "59.900000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [115]=>
+  object(PHC\Artigo)#232 (6) {
+    ["ref"]=>
+    string(10) "48402-4703"
+    ["design"]=>
+    string(60) "Kite Waist Harness - Revolt 2014                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [116]=>
+  object(PHC\Artigo)#233 (6) {
+    ["ref"]=>
+    string(10) "KB3 CGHL 7"
+    ["design"]=>
+    string(60) "CAPACETE GATH                                               "
+    ["epv1"]=>
+    string(10) "115.000000"
+    ["epv2"]=>
+    string(10) "115.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "38"
+  }
+  [117]=>
+  object(PHC\Artigo)#234 (6) {
+    ["ref"]=>
+    string(9) "WB3 FB3TF"
+    ["design"]=>
+    string(60) "FOOTSTRAPS B3 TERMOFORM                                     "
+    ["epv1"]=>
+    string(9) "13.000000"
+    ["epv2"]=>
+    string(9) "13.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "14"
+  }
+  [118]=>
+  object(PHC\Artigo)#235 (6) {
+    ["ref"]=>
+    string(8) "WB3 BPJC"
+    ["design"]=>
+    string(60) "BASE POWER JOINT BASE COMPLETA PIN                          "
+    ["epv1"]=>
+    string(9) "31.000000"
+    ["epv2"]=>
+    string(9) "31.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [119]=>
+  object(PHC\Artigo)#236 (6) {
+    ["ref"]=>
+    string(8) "WB3 CAAR"
+    ["design"]=>
+    string(60) "CABOS DE ARNES B3                                           "
+    ["epv1"]=>
+    string(9) "13.500000"
+    ["epv2"]=>
+    string(9) "13.500000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [120]=>
+  object(PHC\Artigo)#237 (6) {
+    ["ref"]=>
+    string(12) "SBI U4PY03 8"
+    ["design"]=>
+    string(60) "LYCRA BB MENS FURNANCE POLPR                                "
+    ["epv1"]=>
+    string(9) "40.000000"
+    ["epv2"]=>
+    string(9) "40.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [121]=>
+  object(PHC\Artigo)#238 (6) {
+    ["ref"]=>
+    string(13) "WDK 4200700 8"
+    ["design"]=>
+    string(60) "TIRA VELAS B3                                               "
+    ["epv1"]=>
+    string(8) "9.000000"
+    ["epv2"]=>
+    string(8) "9.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [122]=>
+  object(PHC\Artigo)#239 (6) {
+    ["ref"]=>
+    string(7) "WB3 ERM"
+    ["design"]=>
+    string(60) "EASY RIG MANIVELA B3                                        "
+    ["epv1"]=>
+    string(9) "46.000000"
+    ["epv2"]=>
+    string(9) "46.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [123]=>
+  object(PHC\Artigo)#240 (6) {
+    ["ref"]=>
+    string(11) "SSP PRSPO70"
+    ["design"]=>
+    string(60) "PRANCHA SPO 7.0                                             "
+    ["epv1"]=>
+    string(10) "350.000000"
+    ["epv2"]=>
+    string(10) "350.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(1) "9"
+  }
+  [124]=>
+  object(PHC\Artigo)#241 (6) {
+    ["ref"]=>
+    string(8) "KB3 ADX1"
+    ["design"]=>
+    string(60) "ANEMOMETRO DIGITAL XPLORER 1                                "
+    ["epv1"]=>
+    string(9) "43.000000"
+    ["epv2"]=>
+    string(9) "43.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "17"
+  }
+  [125]=>
+  object(PHC\Artigo)#242 (6) {
+    ["ref"]=>
+    string(9) "KB3 EOLE1"
+    ["design"]=>
+    string(60) "ANEMOMETRO DIGITAL EOLE 1                                   "
+    ["epv1"]=>
+    string(9) "69.000000"
+    ["epv2"]=>
+    string(9) "69.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "20"
+  }
+  [126]=>
+  object(PHC\Artigo)#243 (6) {
+    ["ref"]=>
+    string(9) "WB3 PCBMN"
+    ["design"]=>
+    string(60) "PROTECTOR B3 CABEÇA DE RETRANCA+ MASTRO                     "
+    ["epv1"]=>
+    string(9) "20.000000"
+    ["epv2"]=>
+    string(9) "20.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [127]=>
+  object(PHC\Artigo)#244 (6) {
+    ["ref"]=>
+    string(8) "WB3 PCBN"
+    ["design"]=>
+    string(60) "PROTECTOR DE CABEÇA DE RETRANCA NYLON                       "
+    ["epv1"]=>
+    string(9) "10.000000"
+    ["epv2"]=>
+    string(9) "10.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [128]=>
+  object(PHC\Artigo)#245 (6) {
+    ["ref"]=>
+    string(6) "LB3HPN"
+    ["design"]=>
+    string(60) "LEASH B3 KITESURF HANDLE PASS NEOPREN                       "
+    ["epv1"]=>
+    string(9) "38.000000"
+    ["epv2"]=>
+    string(9) "38.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "20"
+  }
+  [129]=>
+  object(PHC\Artigo)#246 (6) {
+    ["ref"]=>
+    string(6) "0GC140"
+    ["design"]=>
+    string(60) "BOOM CROSS                                                  "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "16"
+  }
+  [130]=>
+  object(PHC\Artigo)#247 (6) {
+    ["ref"]=>
+    string(4) "9ZTJ"
+    ["design"]=>
+    string(60) "TENDAO BASE HD CLASSIC                                      "
+    ["epv1"]=>
+    string(9) "49.000000"
+    ["epv2"]=>
+    string(9) "49.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [131]=>
+  object(PHC\Artigo)#248 (6) {
+    ["ref"]=>
+    string(11) "DK0078NL012"
+    ["design"]=>
+    string(60) "LEASH SURF DAKINE KAINUI TEAM 8 X 1.4                       "
+    ["epv1"]=>
+    string(9) "31.500000"
+    ["epv2"]=>
+    string(9) "31.500000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [132]=>
+  object(PHC\Artigo)#249 (6) {
+    ["ref"]=>
+    string(11) "DK0078NL010"
+    ["design"]=>
+    string(60) "Leash Surf Dakine Kainui Team 6´X 1/4"                      "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [133]=>
+  object(PHC\Artigo)#250 (6) {
+    ["ref"]=>
+    string(12) "BB20713WS104"
+    ["design"]=>
+    string(60) "FATO SURF BILLABONG SYNERGY 4X3 CZ LS                       "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [134]=>
+  object(PHC\Artigo)#251 (6) {
+    ["ref"]=>
+    string(10) "44400-3410"
+    ["design"]=>
+    string(60) "KTB - Select 2014                                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [135]=>
+  object(PHC\Artigo)#252 (6) {
+    ["ref"]=>
+    string(10) "44400-3411"
+    ["design"]=>
+    string(60) "KTB - Jaime 2014                                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [136]=>
+  object(PHC\Artigo)#253 (6) {
+    ["ref"]=>
+    string(10) "44400-3412"
+    ["design"]=>
+    string(60) "KTB - Team Series 2014                                      "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [137]=>
+  object(PHC\Artigo)#254 (6) {
+    ["ref"]=>
+    string(11) "DK0078DV026"
+    ["design"]=>
+    string(60) "Fixadores Wind Dakine Primo Footstrap                       "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [138]=>
+  object(PHC\Artigo)#255 (6) {
+    ["ref"]=>
+    string(10) "OCESTDLEAS"
+    ["design"]=>
+    string(60) "OCEANUS STANDAR LEASH                                       "
+    ["epv1"]=>
+    string(9) "80.000000"
+    ["epv2"]=>
+    string(9) "80.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "20"
+  }
+  [139]=>
+  object(PHC\Artigo)#256 (6) {
+    ["ref"]=>
+    string(9) "444003000"
+    ["design"]=>
+    string(60) "NKB 2014 - REBEL                                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "7"
+  }
+  [140]=>
+  object(PHC\Artigo)#257 (6) {
+    ["ref"]=>
+    string(9) "444003002"
+    ["design"]=>
+    string(60) "NKB 2014 - DICE                                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "7"
+  }
+  [141]=>
+  object(PHC\Artigo)#258 (6) {
+    ["ref"]=>
+    string(9) "444003001"
+    ["design"]=>
+    string(60) "NKB 2014 - VEGAS                                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "7"
+  }
+  [142]=>
+  object(PHC\Artigo)#259 (6) {
+    ["ref"]=>
+    string(9) "444003003"
+    ["design"]=>
+    string(60) "NKB 2014 - EVO                                              "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "7"
+  }
+  [143]=>
+  object(PHC\Artigo)#260 (6) {
+    ["ref"]=>
+    string(9) "444003200"
+    ["design"]=>
+    string(60) "NKB 2014 - Trust Bar 5th Element                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "12"
+  }
+  [144]=>
+  object(PHC\Artigo)#261 (6) {
+    ["ref"]=>
+    string(9) "444003201"
+    ["design"]=>
+    string(60) "NKB 2014 - Trust Bar Quad                                   "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "12"
+  }
+  [145]=>
+  object(PHC\Artigo)#262 (6) {
+    ["ref"]=>
+    string(9) "441308080"
+    ["design"]=>
+    string(60) "NKB 2014 - KITE PUMP                                        "
+    ["epv1"]=>
+    string(9) "38.000000"
+    ["epv2"]=>
+    string(9) "38.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "20"
+  }
+  [146]=>
+  object(PHC\Artigo)#263 (6) {
+    ["ref"]=>
+    string(9) "444003412"
+    ["design"]=>
+    string(60) "NKB 2014 - TEAM SERIES                                      "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [147]=>
+  object(PHC\Artigo)#264 (6) {
+    ["ref"]=>
+    string(9) "444003413"
+    ["design"]=>
+    string(60) "NKB 2014 - GAMBLER                                          "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [148]=>
+  object(PHC\Artigo)#265 (6) {
+    ["ref"]=>
+    string(9) "444003411"
+    ["design"]=>
+    string(60) "NKB 2014 - JAIME                                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [149]=>
+  object(PHC\Artigo)#266 (6) {
+    ["ref"]=>
+    string(9) "444003418"
+    ["design"]=>
+    string(60) "NKB 2013 - SOLEIL                                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [150]=>
+  object(PHC\Artigo)#267 (6) {
+    ["ref"]=>
+    string(7) "KS2QLCS"
+    ["design"]=>
+    string(60) "CB BAR COMPLETE QUICKLINK 2012                              "
+    ["epv1"]=>
+    string(10) "419.000000"
+    ["epv2"]=>
+    string(10) "250.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [151]=>
+  object(PHC\Artigo)#268 (6) {
+    ["ref"]=>
+    string(6) "AM30ET"
+    ["design"]=>
+    string(60) "EXTENSOR DE MASTRO B3 30 CM COM COPO                        "
+    ["epv1"]=>
+    string(9) "49.000000"
+    ["epv2"]=>
+    string(9) "49.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [152]=>
+  object(PHC\Artigo)#269 (6) {
+    ["ref"]=>
+    string(9) "444003410"
+    ["design"]=>
+    string(60) "NKB 2014 - SELECT                                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [153]=>
+  object(PHC\Artigo)#270 (6) {
+    ["ref"]=>
+    string(9) "444003415"
+    ["design"]=>
+    string(60) "NKB 2014 - X-ride                                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [154]=>
+  object(PHC\Artigo)#271 (6) {
+    ["ref"]=>
+    string(9) "444003419"
+    ["design"]=>
+    string(60) "NKB 2014 - GONZALES                                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [155]=>
+  object(PHC\Artigo)#272 (6) {
+    ["ref"]=>
+    string(9) "444003416"
+    ["design"]=>
+    string(60) "NKB 2014 - SPIKE                                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [156]=>
+  object(PHC\Artigo)#273 (6) {
+    ["ref"]=>
+    string(9) "444003417"
+    ["design"]=>
+    string(60) "NKB 2014 - SPIKE TEXTREME                                   "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [157]=>
+  object(PHC\Artigo)#274 (6) {
+    ["ref"]=>
+    string(9) "444003302"
+    ["design"]=>
+    string(60) "NKB 2014 - ENTITY COMBO                                     "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "14"
+  }
+  [158]=>
+  object(PHC\Artigo)#275 (6) {
+    ["ref"]=>
+    string(11) "BB22711GL07"
+    ["design"]=>
+    string(60) "Billabong Gloves Foil 2mm                                   "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [159]=>
+  object(PHC\Artigo)#276 (6) {
+    ["ref"]=>
+    string(9) "BB230OO10"
+    ["design"]=>
+    string(60) "Billabong Boot Foil                                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [160]=>
+  object(PHC\Artigo)#277 (6) {
+    ["ref"]=>
+    string(4) "12BX"
+    ["design"]=>
+    string(60) "NAISH SAIL BOXER 2012                                       "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "4"
+  }
+  [161]=>
+  object(PHC\Artigo)#278 (6) {
+    ["ref"]=>
+    string(4) "12FC"
+    ["design"]=>
+    string(60) "NAISH SAIL FORCE 2012                                       "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "4"
+  }
+  [162]=>
+  object(PHC\Artigo)#279 (6) {
+    ["ref"]=>
+    string(4) "12SS"
+    ["design"]=>
+    string(60) "NAISH SAIL SESSION 2012                                     "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "4"
+  }
+  [163]=>
+  object(PHC\Artigo)#280 (6) {
+    ["ref"]=>
+    string(12) "BB21713WS001"
+    ["design"]=>
+    string(60) "FATO SURF BILLABONG LAUNCH 4*3 LS GBS                       "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [164]=>
+  object(PHC\Artigo)#281 (6) {
+    ["ref"]=>
+    string(6) "SCSB01"
+    ["design"]=>
+    string(60) "COMPACT DAY                                                 "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(0) ""
+  }
+  [165]=>
+  object(PHC\Artigo)#282 (6) {
+    ["ref"]=>
+    string(6) "SCFB44"
+    ["design"]=>
+    string(60) "BARRY BASIC FUNBOARD                                        "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(0) ""
+  }
+  [166]=>
+  object(PHC\Artigo)#283 (6) {
+    ["ref"]=>
+    string(6) "SARE08"
+    ["design"]=>
+    string(60) "Ocean Earth PRO-TIP NOSE PROTECTION KIT                     "
+    ["epv1"]=>
+    string(9) "19.800000"
+    ["epv2"]=>
+    string(9) "19.800000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "25"
+  }
+  [167]=>
+  object(PHC\Artigo)#284 (6) {
+    ["ref"]=>
+    string(10) "48130-8307"
+    ["design"]=>
+    string(60) "Kite Waist Harness Axis 2014                                "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [168]=>
+  object(PHC\Artigo)#285 (6) {
+    ["ref"]=>
+    string(10) "48130-8309"
+    ["design"]=>
+    string(60) "Kite Harness Ripper switch 2014                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [169]=>
+  object(PHC\Artigo)#286 (6) {
+    ["ref"]=>
+    string(10) "48402-4710"
+    ["design"]=>
+    string(60) "Kite Seat Harness - X-Cite 2014                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [170]=>
+  object(PHC\Artigo)#287 (6) {
+    ["ref"]=>
+    string(10) "48402-4711"
+    ["design"]=>
+    string(60) "Kite Seat Harness - Radar 2014                              "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [171]=>
+  object(PHC\Artigo)#288 (6) {
+    ["ref"]=>
+    string(10) "48402-4712"
+    ["design"]=>
+    string(60) "Kite Seat Harness - Echo 2014                               "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [172]=>
+  object(PHC\Artigo)#289 (6) {
+    ["ref"]=>
+    string(10) "44400-3301"
+    ["design"]=>
+    string(60) "Vario Combo 2014                                            "
+    ["epv1"]=>
+    string(9) "79.000000"
+    ["epv2"]=>
+    string(9) "79.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "14"
+  }
+  [173]=>
+  object(PHC\Artigo)#290 (6) {
+    ["ref"]=>
+    string(10) "44400-3302"
+    ["design"]=>
+    string(60) "Entity Combo 2014                                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "14"
+  }
+  [174]=>
+  object(PHC\Artigo)#291 (6) {
+    ["ref"]=>
+    string(6) "SARE05"
+    ["design"]=>
+    string(60) "UV SOLARCURE RESIN                                          "
+    ["epv1"]=>
+    string(9) "13.000000"
+    ["epv2"]=>
+    string(9) "13.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "25"
+  }
+  [175]=>
+  object(PHC\Artigo)#292 (6) {
+    ["ref"]=>
+    string(6) "SAWX15"
+    ["design"]=>
+    string(60) "WAX REMOVER                                                 "
+    ["epv1"]=>
+    string(9) "20.000000"
+    ["epv2"]=>
+    string(9) "20.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "25"
+  }
+  [176]=>
+  object(PHC\Artigo)#293 (6) {
+    ["ref"]=>
+    string(10) "48402-4700"
+    ["design"]=>
+    string(60) "Kite Waist Harness - Apex 2014                              "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [177]=>
+  object(PHC\Artigo)#294 (6) {
+    ["ref"]=>
+    string(10) "48402-4702"
+    ["design"]=>
+    string(60) "Kite Waist Harness - Vertex 2014                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [178]=>
+  object(PHC\Artigo)#295 (6) {
+    ["ref"]=>
+    string(10) "48402-4705"
+    ["design"]=>
+    string(60) "Kite Waist Harness - Hummer 2014                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [179]=>
+  object(PHC\Artigo)#296 (6) {
+    ["ref"]=>
+    string(10) "48402-4706"
+    ["design"]=>
+    string(60) "Kite Waist Harness - Madtrixx 2014                          "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [180]=>
+  object(PHC\Artigo)#297 (6) {
+    ["ref"]=>
+    string(10) "48402-4713"
+    ["design"]=>
+    string(60) "Kite Seat Harness - B2 2014                                 "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [181]=>
+  object(PHC\Artigo)#298 (6) {
+    ["ref"]=>
+    string(12) "ION481208019"
+    ["design"]=>
+    string(60) "HANDLEPASS LEASH 2012                                       "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "20"
+  }
+  [182]=>
+  object(PHC\Artigo)#299 (6) {
+    ["ref"]=>
+    string(11) "DK0078DV029"
+    ["design"]=>
+    string(60) "Barra Dakine T-Spreader Bar 10"                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [183]=>
+  object(PHC\Artigo)#300 (6) {
+    ["ref"]=>
+    string(12) "DK00780AR001"
+    ["design"]=>
+    string(60) "ARNES DAKINE VEGA                                           "
+    ["epv1"]=>
+    string(10) "130.000000"
+    ["epv2"]=>
+    string(10) "130.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [184]=>
+  object(PHC\Artigo)#301 (6) {
+    ["ref"]=>
+    string(10) "48403-4720"
+    ["design"]=>
+    string(60) "Kite Waist Harness - Nova 2014                              "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [185]=>
+  object(PHC\Artigo)#302 (6) {
+    ["ref"]=>
+    string(10) "48403-4721"
+    ["design"]=>
+    string(60) "Kite Waist Harness - Nova Diamond Edition 2014              "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [186]=>
+  object(PHC\Artigo)#303 (6) {
+    ["ref"]=>
+    string(10) "48403-4722"
+    ["design"]=>
+    string(60) "Kite Waist Harness - Sol 2014                               "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [187]=>
+  object(PHC\Artigo)#304 (6) {
+    ["ref"]=>
+    string(10) "48403-4725"
+    ["design"]=>
+    string(60) "Kite Seat Harness - Vega 2014                               "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [188]=>
+  object(PHC\Artigo)#305 (6) {
+    ["ref"]=>
+    string(10) "44400-3000"
+    ["design"]=>
+    string(60) " NKB - Rebel 2014                                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "7"
+  }
+  [189]=>
+  object(PHC\Artigo)#306 (6) {
+    ["ref"]=>
+    string(10) "44400-3001"
+    ["design"]=>
+    string(60) " NKB - Vegas 2014                                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "7"
+  }
+  [190]=>
+  object(PHC\Artigo)#307 (6) {
+    ["ref"]=>
+    string(10) "44400-3002"
+    ["design"]=>
+    string(60) " NKB - Dice 2014                                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "7"
+  }
+  [191]=>
+  object(PHC\Artigo)#308 (6) {
+    ["ref"]=>
+    string(10) "44400-3003"
+    ["design"]=>
+    string(60) "NKB -  Evo 2014                                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "7"
+  }
+  [192]=>
+  object(PHC\Artigo)#309 (6) {
+    ["ref"]=>
+    string(10) "44400-3004"
+    ["design"]=>
+    string(60) "NKB -  Neo 2014                                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "7"
+  }
+  [193]=>
+  object(PHC\Artigo)#310 (6) {
+    ["ref"]=>
+    string(10) "44400-3200"
+    ["design"]=>
+    string(60) "Trust Bar - 5th Element 2014                                "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "12"
+  }
+  [194]=>
+  object(PHC\Artigo)#311 (6) {
+    ["ref"]=>
+    string(10) "44400-3201"
+    ["design"]=>
+    string(60) "Trust Bar - Quad Control 2014                               "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "12"
+  }
+  [195]=>
+  object(PHC\Artigo)#312 (6) {
+    ["ref"]=>
+    string(4) "BTJS"
+    ["design"]=>
+    string(60) "BASE TENDON JOINT STAR                                      "
+    ["epv1"]=>
+    string(9) "35.000000"
+    ["epv2"]=>
+    string(9) "35.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(0) ""
+  }
+  [196]=>
+  object(PHC\Artigo)#313 (6) {
+    ["ref"]=>
+    string(10) "44400-3400"
+    ["design"]=>
+    string(60) "KTB - Whip 2014                                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [197]=>
+  object(PHC\Artigo)#314 (6) {
+    ["ref"]=>
+    string(10) "44400-3402"
+    ["design"]=>
+    string(60) "KTB - Kontact 2014                                          "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [198]=>
+  object(PHC\Artigo)#315 (6) {
+    ["ref"]=>
+    string(10) "44400-3403"
+    ["design"]=>
+    string(60) "KTB - Pro Series 2014                                       "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [199]=>
+  object(PHC\Artigo)#316 (6) {
+    ["ref"]=>
+    string(10) "44400-3404"
+    ["design"]=>
+    string(60) "KTB - Nugget 2014                                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [200]=>
+  object(PHC\Artigo)#317 (6) {
+    ["ref"]=>
+    string(10) "44400-3405"
+    ["design"]=>
+    string(60) "KTB - WAM 2014                                              "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [201]=>
+  object(PHC\Artigo)#318 (6) {
+    ["ref"]=>
+    string(10) "44400-3407"
+    ["design"]=>
+    string(60) "KTB - Woohoo 2014                                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [202]=>
+  object(PHC\Artigo)#319 (6) {
+    ["ref"]=>
+    string(10) "48120-4057"
+    ["design"]=>
+    string(60) "ION TRINITY 3.5                                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "31"
+  }
+  [203]=>
+  object(PHC\Artigo)#320 (6) {
+    ["ref"]=>
+    string(10) "44400-3413"
+    ["design"]=>
+    string(60) "KTB - Gambler 2014                                          "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [204]=>
+  object(PHC\Artigo)#321 (6) {
+    ["ref"]=>
+    string(10) "44400-3415"
+    ["design"]=>
+    string(60) "KTB - X-Ride 2014                                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [205]=>
+  object(PHC\Artigo)#322 (6) {
+    ["ref"]=>
+    string(10) "44400-3416"
+    ["design"]=>
+    string(60) "KTB - Spike 2014                                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [206]=>
+  object(PHC\Artigo)#323 (6) {
+    ["ref"]=>
+    string(10) "44400-3417"
+    ["design"]=>
+    string(60) "KTB - Spike Textreme 2014                                   "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [207]=>
+  object(PHC\Artigo)#324 (6) {
+    ["ref"]=>
+    string(10) "44400-3418"
+    ["design"]=>
+    string(60) "KTB - Soleil 2014                                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [208]=>
+  object(PHC\Artigo)#325 (6) {
+    ["ref"]=>
+    string(10) "44400-3419"
+    ["design"]=>
+    string(60) "KTB - Gonzales 2014                                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [209]=>
+  object(PHC\Artigo)#326 (6) {
+    ["ref"]=>
+    string(10) "44400-4700"
+    ["design"]=>
+    string(60) "Kite Waist Harness - Styler 2014                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [210]=>
+  object(PHC\Artigo)#327 (6) {
+    ["ref"]=>
+    string(10) "44400-4701"
+    ["design"]=>
+    string(60) "Kite Waist Harness - Airstyler 2014                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [211]=>
+  object(PHC\Artigo)#328 (6) {
+    ["ref"]=>
+    string(10) "44400-4702"
+    ["design"]=>
+    string(60) "Kite Seat Harness - Performer 2014                          "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [212]=>
+  object(PHC\Artigo)#329 (6) {
+    ["ref"]=>
+    string(10) "44400-4703"
+    ["design"]=>
+    string(60) "Transformer Seat 2014                                       "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [213]=>
+  object(PHC\Artigo)#330 (6) {
+    ["ref"]=>
+    string(10) "44400-5994"
+    ["design"]=>
+    string(60) "New Era Cap - 59Fifty Logo 2014                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "10"
+  }
+  [214]=>
+  object(PHC\Artigo)#331 (6) {
+    ["ref"]=>
+    string(10) "44400-5995"
+    ["design"]=>
+    string(60) "New Era Cap - 59Fifty TS 2014                               "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "10"
+  }
+  [215]=>
+  object(PHC\Artigo)#332 (6) {
+    ["ref"]=>
+    string(10) "44400-5996"
+    ["design"]=>
+    string(60) "New Era Cap - 9Fifty Retro 2014                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "10"
+  }
+  [216]=>
+  object(PHC\Artigo)#333 (6) {
+    ["ref"]=>
+    string(10) "44400-7000"
+    ["design"]=>
+    string(60) "Kite Vest Waist 2014                                        "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "38"
+  }
+  [217]=>
+  object(PHC\Artigo)#334 (6) {
+    ["ref"]=>
+    string(10) "44400-7001"
+    ["design"]=>
+    string(60) "Kite Vest Seat 2014                                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "38"
+  }
+  [218]=>
+  object(PHC\Artigo)#335 (6) {
+    ["ref"]=>
+    string(10) "44400-7010"
+    ["design"]=>
+    string(60) "Daypack 2014                                                "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "21"
+  }
+  [219]=>
+  object(PHC\Artigo)#336 (6) {
+    ["ref"]=>
+    string(10) "44400-7011"
+    ["design"]=>
+    string(60) "Travelbag Large 2014                                        "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "21"
+  }
+  [220]=>
+  object(PHC\Artigo)#337 (6) {
+    ["ref"]=>
+    string(10) "44400-7012"
+    ["design"]=>
+    string(60) "Combibag 2014                                               "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "21"
+  }
+  [221]=>
+  object(PHC\Artigo)#338 (6) {
+    ["ref"]=>
+    string(10) "44400-7013"
+    ["design"]=>
+    string(60) "Quiverbag 2014                                              "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "21"
+  }
+  [222]=>
+  object(PHC\Artigo)#339 (6) {
+    ["ref"]=>
+    string(10) "44400-7014"
+    ["design"]=>
+    string(60) "Quiverbag Surf XL 2014                                      "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "21"
+  }
+  [223]=>
+  object(PHC\Artigo)#340 (6) {
+    ["ref"]=>
+    string(10) "44400-7015"
+    ["design"]=>
+    string(60) "Quiverbag Race 2014                                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "21"
+  }
+  [224]=>
+  object(PHC\Artigo)#341 (6) {
+    ["ref"]=>
+    string(10) "44402-5000"
+    ["design"]=>
+    string(60) "Tee SS Logo 2014                                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "10"
+  }
+  [225]=>
+  object(PHC\Artigo)#342 (6) {
+    ["ref"]=>
+    string(10) "44402-5002"
+    ["design"]=>
+    string(60) "Tee SS North 2014                                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "10"
+  }
+  [226]=>
+  object(PHC\Artigo)#343 (6) {
+    ["ref"]=>
+    string(10) "44400-7016"
+    ["design"]=>
+    string(60) "Single Board Bag 2014                                       "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "21"
+  }
+  [227]=>
+  object(PHC\Artigo)#344 (6) {
+    ["ref"]=>
+    string(10) "44400-7017"
+    ["design"]=>
+    string(60) "Single Board Bag Surf 2014                                  "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "21"
+  }
+  [228]=>
+  object(PHC\Artigo)#345 (6) {
+    ["ref"]=>
+    string(10) "44400-7018"
+    ["design"]=>
+    string(60) "Single Board Bag Race 2014                                  "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "21"
+  }
+  [229]=>
+  object(PHC\Artigo)#346 (6) {
+    ["ref"]=>
+    string(10) "44400-8004"
+    ["design"]=>
+    string(60) "NKB - Safety Leash                                          "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "20"
+  }
+  [230]=>
+  object(PHC\Artigo)#347 (6) {
+    ["ref"]=>
+    string(10) "44400-8026"
+    ["design"]=>
+    string(60) "NKB - Surfstraps Surf (pair) with washers & screws          "
+    ["epv1"]=>
+    string(9) "43.000000"
+    ["epv2"]=>
+    string(9) "43.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "20"
+  }
+  [231]=>
+  object(PHC\Artigo)#348 (6) {
+    ["ref"]=>
+    string(10) "44400-8027"
+    ["design"]=>
+    string(60) "NKB - TS S Fins (3pcs)                                      "
+    ["epv1"]=>
+    string(9) "88.000000"
+    ["epv2"]=>
+    string(9) "88.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "20"
+  }
+  [232]=>
+  object(PHC\Artigo)#349 (6) {
+    ["ref"]=>
+    string(10) "44400-8028"
+    ["design"]=>
+    string(60) "NKB - TS M Fins (3pcs)                                      "
+    ["epv1"]=>
+    string(9) "88.000000"
+    ["epv2"]=>
+    string(9) "88.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "20"
+  }
+  [233]=>
+  object(PHC\Artigo)#350 (6) {
+    ["ref"]=>
+    string(10) "44400-8029"
+    ["design"]=>
+    string(60) "NKB - TS S front with Quads (4pcs)                          "
+    ["epv1"]=>
+    string(10) "117.000000"
+    ["epv2"]=>
+    string(10) "117.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "20"
+  }
+  [234]=>
+  object(PHC\Artigo)#351 (6) {
+    ["ref"]=>
+    string(10) "44400-8030"
+    ["design"]=>
+    string(60) "NKB - TS M front with Quads (4pcs)                          "
+    ["epv1"]=>
+    string(10) "117.000000"
+    ["epv2"]=>
+    string(10) "117.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "20"
+  }
+  [235]=>
+  object(PHC\Artigo)#352 (6) {
+    ["ref"]=>
+    string(10) "44400-8033"
+    ["design"]=>
+    string(60) "NKB - Front Surfpads Standard with Mini Pads                "
+    ["epv1"]=>
+    string(9) "54.000000"
+    ["epv2"]=>
+    string(9) "54.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "20"
+  }
+  [236]=>
+  object(PHC\Artigo)#353 (6) {
+    ["ref"]=>
+    string(10) "44400-8034"
+    ["design"]=>
+    string(60) "NKB - Surfpad back                                          "
+    ["epv1"]=>
+    string(9) "44.000000"
+    ["epv2"]=>
+    string(9) "44.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "20"
+  }
+  [237]=>
+  object(PHC\Artigo)#354 (6) {
+    ["ref"]=>
+    string(10) "48120-4027"
+    ["design"]=>
+    string(60) "ION RIOT OVERKNEE 3.5                                       "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "31"
+  }
+  [238]=>
+  object(PHC\Artigo)#355 (6) {
+    ["ref"]=>
+    string(9) "SBIL4GL04"
+    ["design"]=>
+    string(60) "LUVAS BB SG5                                                "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [239]=>
+  object(PHC\Artigo)#356 (6) {
+    ["ref"]=>
+    string(10) "44402-5004"
+    ["design"]=>
+    string(60) "Tee SS Enjoy the ride 2014                                  "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "10"
+  }
+  [240]=>
+  object(PHC\Artigo)#357 (6) {
+    ["ref"]=>
+    string(10) "44402-5006"
+    ["design"]=>
+    string(60) "Tee SS Banana 2014                                          "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "10"
+  }
+  [241]=>
+  object(PHC\Artigo)#358 (6) {
+    ["ref"]=>
+    string(10) "44402-5008"
+    ["design"]=>
+    string(60) "Tee SS Team Series 2014                                     "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "10"
+  }
+  [242]=>
+  object(PHC\Artigo)#359 (6) {
+    ["ref"]=>
+    string(10) "44402-5200"
+    ["design"]=>
+    string(60) "Zip Hoody Jibe 2014                                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "10"
+  }
+  [243]=>
+  object(PHC\Artigo)#360 (6) {
+    ["ref"]=>
+    string(10) "44402-5700"
+    ["design"]=>
+    string(60) "Boardies Split 2014                                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "10"
+  }
+  [244]=>
+  object(PHC\Artigo)#361 (6) {
+    ["ref"]=>
+    string(10) "44403-5001"
+    ["design"]=>
+    string(60) "Tee SS NKB 2014                                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "10"
+  }
+  [245]=>
+  object(PHC\Artigo)#362 (6) {
+    ["ref"]=>
+    string(10) "44403-5003"
+    ["design"]=>
+    string(60) "Tee SS Woohoo 2014                                          "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "10"
+  }
+  [246]=>
+  object(PHC\Artigo)#363 (6) {
+    ["ref"]=>
+    string(10) "44403-5005"
+    ["design"]=>
+    string(60) "Tee SS Soleil 2014                                          "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "10"
+  }
+  [247]=>
+  object(PHC\Artigo)#364 (6) {
+    ["ref"]=>
+    string(10) "44403-5201"
+    ["design"]=>
+    string(60) "Zip Hoody Air Time 2014                                     "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "10"
+  }
+  [248]=>
+  object(PHC\Artigo)#365 (6) {
+    ["ref"]=>
+    string(11) "IO481204123"
+    ["design"]=>
+    string(60) "ION NEO GLOVES 3 2                                          "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [249]=>
+  object(PHC\Artigo)#366 (6) {
+    ["ref"]=>
+    string(11) "IO481204124"
+    ["design"]=>
+    string(60) "ION PAW MITTENS 2.5                                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [250]=>
+  object(PHC\Artigo)#367 (6) {
+    ["ref"]=>
+    string(12) "IO48070-4056"
+    ["design"]=>
+    string(60) "ION VISOR HOOD 3 2                                          "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [251]=>
+  object(PHC\Artigo)#368 (6) {
+    ["ref"]=>
+    string(10) "SBI L4HN02"
+    ["design"]=>
+    string(60) "GORRO BB SOLUTION                                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [252]=>
+  object(PHC\Artigo)#369 (6) {
+    ["ref"]=>
+    string(10) "SBI F4H039"
+    ["design"]=>
+    string(60) "GORRO BB SG5                                                "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [253]=>
+  object(PHC\Artigo)#370 (6) {
+    ["ref"]=>
+    string(7) "SC409BG"
+    ["design"]=>
+    string(60) "SYNCRO BOYS 4 3 CHEST ZIP STEAMER                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [254]=>
+  object(PHC\Artigo)#371 (6) {
+    ["ref"]=>
+    string(7) "SA509WG"
+    ["design"]=>
+    string(60) "SYNCRO ROXY 5 4 3 BACK ZIP STEAMER                          "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [255]=>
+  object(PHC\Artigo)#372 (6) {
+    ["ref"]=>
+    string(9) "441303004"
+    ["design"]=>
+    string(60) "NKB 2013 - Neo                                              "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "7"
+  }
+  [256]=>
+  object(PHC\Artigo)#373 (6) {
+    ["ref"]=>
+    string(9) "444003301"
+    ["design"]=>
+    string(60) "NKB 2014 - VARIO COMBO                                      "
+    ["epv1"]=>
+    string(9) "79.000000"
+    ["epv2"]=>
+    string(9) "79.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "14"
+  }
+  [257]=>
+  object(PHC\Artigo)#374 (6) {
+    ["ref"]=>
+    string(9) "441304350"
+    ["design"]=>
+    string(60) "NKB 2014 - BANANA BOOT                                      "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "14"
+  }
+  [258]=>
+  object(PHC\Artigo)#375 (6) {
+    ["ref"]=>
+    string(9) "444003405"
+    ["design"]=>
+    string(60) "NKB 214 - WAM                                               "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [259]=>
+  object(PHC\Artigo)#376 (6) {
+    ["ref"]=>
+    string(9) "444003407"
+    ["design"]=>
+    string(60) "NKB 2014 - WOOHOO                                           "
+    ["epv1"]=>
+    string(10) "840.000000"
+    ["epv2"]=>
+    string(10) "840.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [260]=>
+  object(PHC\Artigo)#377 (6) {
+    ["ref"]=>
+    string(9) "444008033"
+    ["design"]=>
+    string(60) "NKB 2014 - Front Surfpads Standard with Mini Pads           "
+    ["epv1"]=>
+    string(9) "49.900000"
+    ["epv2"]=>
+    string(9) "49.900000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "14"
+  }
+  [261]=>
+  object(PHC\Artigo)#378 (6) {
+    ["ref"]=>
+    string(9) "444008026"
+    ["design"]=>
+    string(60) "NKB 2014 - Surfstraps Surf (pair) with washers & scres      "
+    ["epv1"]=>
+    string(9) "39.900000"
+    ["epv2"]=>
+    string(9) "39.900000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "14"
+  }
+  [262]=>
+  object(PHC\Artigo)#379 (6) {
+    ["ref"]=>
+    string(11) "DK0078GL018"
+    ["design"]=>
+    string(60) "Luvas Dakine half Finguer Sailing                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "38"
+  }
+  [263]=>
+  object(PHC\Artigo)#380 (6) {
+    ["ref"]=>
+    string(11) "EARJW100010"
+    ["design"]=>
+    string(60) "IGNITE ROXY 4/3                                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [264]=>
+  object(PHC\Artigo)#381 (6) {
+    ["ref"]=>
+    string(9) "BB232LY02"
+    ["design"]=>
+    string(60) "BB LICRA FURNACE                                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [265]=>
+  object(PHC\Artigo)#382 (6) {
+    ["ref"]=>
+    string(9) "441303002"
+    ["design"]=>
+    string(60) "NKB 2013 - Evo                                              "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "7"
+  }
+  [266]=>
+  object(PHC\Artigo)#383 (6) {
+    ["ref"]=>
+    string(9) "441303001"
+    ["design"]=>
+    string(60) "NKB 2013 - Vegas                                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "7"
+  }
+  [267]=>
+  object(PHC\Artigo)#384 (6) {
+    ["ref"]=>
+    string(9) "441303200"
+    ["design"]=>
+    string(60) "NKB 2013 -  Trust Bar  5th Element                          "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "12"
+  }
+  [268]=>
+  object(PHC\Artigo)#385 (6) {
+    ["ref"]=>
+    string(9) "441303201"
+    ["design"]=>
+    string(60) "NKB 2013 -  Trust Bar  Quad Control                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "12"
+  }
+  [269]=>
+  object(PHC\Artigo)#386 (6) {
+    ["ref"]=>
+    string(9) "441303412"
+    ["design"]=>
+    string(60) "NKB 2013 -    Team Series                                   "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [270]=>
+  object(PHC\Artigo)#387 (6) {
+    ["ref"]=>
+    string(9) "441303411"
+    ["design"]=>
+    string(60) "NKB 2013 -    Jaime                                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [271]=>
+  object(PHC\Artigo)#388 (6) {
+    ["ref"]=>
+    string(9) "441303410"
+    ["design"]=>
+    string(60) "NKB 2013 -    Select                                        "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [272]=>
+  object(PHC\Artigo)#389 (6) {
+    ["ref"]=>
+    string(9) "441303415"
+    ["design"]=>
+    string(60) "NKB 2013 -    XRide                                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [273]=>
+  object(PHC\Artigo)#390 (6) {
+    ["ref"]=>
+    string(9) "441303403"
+    ["design"]=>
+    string(60) "NKB 2013 -    Pro Series                                    "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [274]=>
+  object(PHC\Artigo)#391 (6) {
+    ["ref"]=>
+    string(10) "LEASHOEPRM"
+    ["design"]=>
+    string(60) "LEASH OCEAN&EARTH PREMIUM                                   "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [275]=>
+  object(PHC\Artigo)#392 (6) {
+    ["ref"]=>
+    string(10) "LEASHOERGL"
+    ["design"]=>
+    string(60) "LEASH OCEAN & EARTH REGULAR                                 "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [276]=>
+  object(PHC\Artigo)#393 (6) {
+    ["ref"]=>
+    string(9) "441303402"
+    ["design"]=>
+    string(60) "NKB 2013 -    Kontact                                       "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [277]=>
+  object(PHC\Artigo)#394 (6) {
+    ["ref"]=>
+    string(9) "441303405"
+    ["design"]=>
+    string(60) "NKB 2013 -    WAM                                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [278]=>
+  object(PHC\Artigo)#395 (6) {
+    ["ref"]=>
+    string(6) "SS1321"
+    ["design"]=>
+    string(60) "Slingshot 2013 - Celeritas Bamboo                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [279]=>
+  object(PHC\Artigo)#396 (6) {
+    ["ref"]=>
+    string(9) "441303400"
+    ["design"]=>
+    string(60) "NKB 2013 -    Whip                                          "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [280]=>
+  object(PHC\Artigo)#397 (6) {
+    ["ref"]=>
+    string(9) "441303401"
+    ["design"]=>
+    string(60) "NKB 2013 -    Whip XSurf Edition                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [281]=>
+  object(PHC\Artigo)#398 (6) {
+    ["ref"]=>
+    string(7) "SS12251"
+    ["design"]=>
+    string(60) "Slingshot 2013 - Crisis                                     "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "8"
+  }
+  [282]=>
+  object(PHC\Artigo)#399 (6) {
+    ["ref"]=>
+    string(9) "GO000DK19"
+    ["design"]=>
+    string(60) "Deck Gorilla  Wilko Psych Out                               "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "23"
+  }
+  [283]=>
+  object(PHC\Artigo)#400 (6) {
+    ["ref"]=>
+    string(8) "ESA815WG"
+    ["design"]=>
+    string(60) "Roxy Syncro boot 3mm                                        "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [284]=>
+  object(PHC\Artigo)#401 (6) {
+    ["ref"]=>
+    string(7) "CF824ML"
+    ["design"]=>
+    string(60) "Quiksilver Cypher Glove 3mm                                 "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [285]=>
+  object(PHC\Artigo)#402 (6) {
+    ["ref"]=>
+    string(10) "AQYWW00004"
+    ["design"]=>
+    string(60) "Quiksilver Syncro Hooded Vest                               "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [286]=>
+  object(PHC\Artigo)#403 (6) {
+    ["ref"]=>
+    string(10) "44110-8004"
+    ["design"]=>
+    string(60) "Finset Race Ltd.  (2pcs)                                    "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [287]=>
+  object(PHC\Artigo)#404 (6) {
+    ["ref"]=>
+    string(10) "44110-8001"
+    ["design"]=>
+    string(60) "Finset World Cup LW Race XL                                 "
+    ["epv1"]=>
+    string(10) "175.000000"
+    ["epv2"]=>
+    string(9) "90.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [288]=>
+  object(PHC\Artigo)#405 (6) {
+    ["ref"]=>
+    string(7) "13ZR024"
+    ["design"]=>
+    string(60) "Ride Control System 24m/18-20" bar                          "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "12"
+  }
+  [289]=>
+  object(PHC\Artigo)#406 (6) {
+    ["ref"]=>
+    string(6) "3ME430"
+    ["design"]=>
+    string(60) "GUN MAST EXPERT 430                                         "
+    ["epv1"]=>
+    string(10) "299.000000"
+    ["epv2"]=>
+    string(10) "299.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "17"
+  }
+  [290]=>
+  object(PHC\Artigo)#407 (6) {
+    ["ref"]=>
+    string(6) "0GV140"
+    ["design"]=>
+    string(60) "GUN V-CROSS 140-190                                         "
+    ["epv1"]=>
+    string(10) "185.000000"
+    ["epv2"]=>
+    string(10) "185.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "16"
+  }
+  [291]=>
+  object(PHC\Artigo)#408 (6) {
+    ["ref"]=>
+    string(6) "3FF34P"
+    ["design"]=>
+    string(60) "GUN FIN FREERIDE 34 PB                                      "
+    ["epv1"]=>
+    string(9) "89.000000"
+    ["epv2"]=>
+    string(9) "89.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "18"
+  }
+  [292]=>
+  object(PHC\Artigo)#409 (6) {
+    ["ref"]=>
+    string(6) "3FW23P"
+    ["design"]=>
+    string(60) "GUN FIN WAVE 23,5 PB                                        "
+    ["epv1"]=>
+    string(9) "79.000000"
+    ["epv2"]=>
+    string(9) "79.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "18"
+  }
+  [293]=>
+  object(PHC\Artigo)#410 (6) {
+    ["ref"]=>
+    string(3) "2KM"
+    ["design"]=>
+    string(60) "GUN MAST DRAGON 300-320                                     "
+    ["epv1"]=>
+    string(9) "39.000000"
+    ["epv2"]=>
+    string(9) "39.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "17"
+  }
+  [294]=>
+  object(PHC\Artigo)#411 (6) {
+    ["ref"]=>
+    string(9) "GO000DK23"
+    ["design"]=>
+    string(60) "Deck Gorilla Medina Black                                   "
+    ["epv1"]=>
+    string(9) "41.900000"
+    ["epv2"]=>
+    string(9) "41.900000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "23"
+  }
+  [295]=>
+  object(PHC\Artigo)#412 (6) {
+    ["ref"]=>
+    string(11) "GO00710DK32"
+    ["design"]=>
+    string(60) "Deck Gorilla Mojo Color Squares                             "
+    ["epv1"]=>
+    string(9) "42.000000"
+    ["epv2"]=>
+    string(9) "42.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "23"
+  }
+  [296]=>
+  object(PHC\Artigo)#413 (6) {
+    ["ref"]=>
+    string(9) "BB261WS09"
+    ["design"]=>
+    string(60) "BB XERO PRO 4/3                                             "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [297]=>
+  object(PHC\Artigo)#414 (6) {
+    ["ref"]=>
+    string(9) "BB261WS16"
+    ["design"]=>
+    string(60) "BB XERO PRO 4/3 ZL LS                                       "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [298]=>
+  object(PHC\Artigo)#415 (6) {
+    ["ref"]=>
+    string(9) "BB261WS10"
+    ["design"]=>
+    string(60) "BB XERO ENDURO 4/3 CZ                                       "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [299]=>
+  object(PHC\Artigo)#416 (6) {
+    ["ref"]=>
+    string(9) "BB261WS12"
+    ["design"]=>
+    string(60) "BB REVOLUTION 4/3 CZ                                        "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [300]=>
+  object(PHC\Artigo)#417 (6) {
+    ["ref"]=>
+    string(9) "BB261WS14"
+    ["design"]=>
+    string(60) "BB FOIL 4/3 CZ                                              "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [301]=>
+  object(PHC\Artigo)#418 (6) {
+    ["ref"]=>
+    string(9) "BB262WS04"
+    ["design"]=>
+    string(60) "BB XERO PRO BOYS 4/3                                        "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [302]=>
+  object(PHC\Artigo)#419 (6) {
+    ["ref"]=>
+    string(9) "BB261LY02"
+    ["design"]=>
+    string(60) "BB LICRA FURNACE LS                                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [303]=>
+  object(PHC\Artigo)#420 (6) {
+    ["ref"]=>
+    string(7) "CH821MS"
+    ["design"]=>
+    string(60) "Quiksilver Cypher hood 2mm                                  "
+    ["epv1"]=>
+    string(9) "38.000000"
+    ["epv2"]=>
+    string(9) "38.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [304]=>
+  object(PHC\Artigo)#421 (6) {
+    ["ref"]=>
+    string(10) "13400-1321"
+    ["design"]=>
+    string(60) "Carbon pro adjustable 2014                                  "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "43"
+  }
+  [305]=>
+  object(PHC\Artigo)#422 (6) {
+    ["ref"]=>
+    string(5) "OS315"
+    ["design"]=>
+    string(60) "RELÓGIO OPTIMUM TIME OS315                                  "
+    ["epv1"]=>
+    string(9) "73.000000"
+    ["epv2"]=>
+    string(9) "73.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "17"
+  }
+  [306]=>
+  object(PHC\Artigo)#423 (6) {
+    ["ref"]=>
+    string(10) "48130-4433"
+    ["design"]=>
+    string(60) "ION STRIKE SEMIDRY 4,5 DL                                   "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "31"
+  }
+  [307]=>
+  object(PHC\Artigo)#424 (6) {
+    ["ref"]=>
+    string(10) "48402-4162"
+    ["design"]=>
+    string(60) "Vector Vest 2014                                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "38"
+  }
+  [308]=>
+  object(PHC\Artigo)#425 (6) {
+    ["ref"]=>
+    string(6) "SARX06"
+    ["design"]=>
+    string(60) "Ocean Earth Tie Down Straps 12"                             "
+    ["epv1"]=>
+    string(9) "27.900000"
+    ["epv2"]=>
+    string(9) "27.900000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "25"
+  }
+  [309]=>
+  object(PHC\Artigo)#426 (6) {
+    ["ref"]=>
+    string(6) "OELR80"
+    ["design"]=>
+    string(60) "Ocean Earth Leash Regular 8´0                               "
+    ["epv1"]=>
+    string(9) "31.950000"
+    ["epv2"]=>
+    string(9) "31.950000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [310]=>
+  object(PHC\Artigo)#427 (6) {
+    ["ref"]=>
+    string(10) "DK0078DV12"
+    ["design"]=>
+    string(60) "Barra Hammerhead complete 2013                              "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "20"
+  }
+  [311]=>
+  object(PHC\Artigo)#428 (6) {
+    ["ref"]=>
+    string(10) "L44M02BIW2"
+    ["design"]=>
+    string(60) "BB SGX CZ 4/3                                               "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [312]=>
+  object(PHC\Artigo)#429 (6) {
+    ["ref"]=>
+    string(6) "14WKBZ"
+    ["design"]=>
+    string(60) "NAISH 2013 BINDINGS (footstrap + pad)                       "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "14"
+  }
+  [313]=>
+  object(PHC\Artigo)#430 (6) {
+    ["ref"]=>
+    string(10) "L44M08BIW2"
+    ["design"]=>
+    string(60) "Fato BB Foil 4x3 CZ LS                                      "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [314]=>
+  object(PHC\Artigo)#431 (6) {
+    ["ref"]=>
+    string(10) "L44M07BIW2"
+    ["design"]=>
+    string(60) "Fato BB Foil 4x3 BZ LS                                      "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [315]=>
+  object(PHC\Artigo)#432 (6) {
+    ["ref"]=>
+    string(13) "DK0078AR00713"
+    ["design"]=>
+    string(60) "DAKINE FUSION 2013                                          "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [316]=>
+  object(PHC\Artigo)#433 (6) {
+    ["ref"]=>
+    string(14) "DK00780AR00113"
+    ["design"]=>
+    string(60) "DAKINE VEGA 2013                                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "15"
+  }
+  [317]=>
+  object(PHC\Artigo)#434 (6) {
+    ["ref"]=>
+    string(11) "DK0078NL005"
+    ["design"]=>
+    string(60) "Dakine Kainui 8x1/4                                         "
+    ["epv1"]=>
+    string(9) "29.900000"
+    ["epv2"]=>
+    string(9) "29.900000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [318]=>
+  object(PHC\Artigo)#435 (6) {
+    ["ref"]=>
+    string(7) "SA409WG"
+    ["design"]=>
+    string(60) "Roxy Syncro 4/3 Back Zip                                    "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [319]=>
+  object(PHC\Artigo)#436 (6) {
+    ["ref"]=>
+    string(7) "SC409MG"
+    ["design"]=>
+    string(60) "Quiksilver Syncro Man 4/3 Chest Zip                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [320]=>
+  object(PHC\Artigo)#437 (6) {
+    ["ref"]=>
+    string(7) "TORQFUN"
+    ["design"]=>
+    string(60) "Torq Fun 2013                                               "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "9"
+  }
+  [321]=>
+  object(PHC\Artigo)#438 (6) {
+    ["ref"]=>
+    string(6) "OELF60"
+    ["design"]=>
+    string(60) "Ocean Earth Leash Fish 6´0                                  "
+    ["epv1"]=>
+    string(9) "38.000000"
+    ["epv2"]=>
+    string(9) "38.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [322]=>
+  object(PHC\Artigo)#439 (6) {
+    ["ref"]=>
+    string(6) "OELP60"
+    ["design"]=>
+    string(60) "Ocean Earth Premium One 6´0                                 "
+    ["epv1"]=>
+    string(9) "37.900000"
+    ["epv2"]=>
+    string(9) "37.900000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [323]=>
+  object(PHC\Artigo)#440 (6) {
+    ["ref"]=>
+    string(6) "OELP80"
+    ["design"]=>
+    string(60) "Ocean Earth Leash Premium 8´0                               "
+    ["epv1"]=>
+    string(9) "41.900000"
+    ["epv2"]=>
+    string(9) "41.900000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [324]=>
+  object(PHC\Artigo)#441 (6) {
+    ["ref"]=>
+    string(6) "OELR60"
+    ["design"]=>
+    string(60) "Ocean Earth Leash Regular 6´0                               "
+    ["epv1"]=>
+    string(9) "29.000000"
+    ["epv2"]=>
+    string(9) "29.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [325]=>
+  object(PHC\Artigo)#442 (6) {
+    ["ref"]=>
+    string(6) "OELR70"
+    ["design"]=>
+    string(60) "Ocean Earth Leash Regular 7´0                               "
+    ["epv1"]=>
+    string(9) "29.950000"
+    ["epv2"]=>
+    string(9) "29.950000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [326]=>
+  object(PHC\Artigo)#443 (6) {
+    ["ref"]=>
+    string(6) "OELS70"
+    ["design"]=>
+    string(60) "Ocean Earth Leash Sunset 7´0                                "
+    ["epv1"]=>
+    string(9) "25.000000"
+    ["epv2"]=>
+    string(9) "25.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [327]=>
+  object(PHC\Artigo)#444 (6) {
+    ["ref"]=>
+    string(6) "OELK90"
+    ["design"]=>
+    string(60) "Ocean Earth Leash L-Board Knee 9´0                          "
+    ["epv1"]=>
+    string(9) "42.900000"
+    ["epv2"]=>
+    string(9) "42.900000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [328]=>
+  object(PHC\Artigo)#445 (6) {
+    ["ref"]=>
+    string(6) "OETP06"
+    ["design"]=>
+    string(60) "Ocean Earth Owen Custom mix PAD                             "
+    ["epv1"]=>
+    string(9) "14.950000"
+    ["epv2"]=>
+    string(9) "14.950000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "23"
+  }
+  [329]=>
+  object(PHC\Artigo)#446 (6) {
+    ["ref"]=>
+    string(6) "OETP14"
+    ["design"]=>
+    string(60) "Ocean Earth Kanoa 280 grom PAD                              "
+    ["epv1"]=>
+    string(9) "43.900000"
+    ["epv2"]=>
+    string(9) "43.900000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "23"
+  }
+  [330]=>
+  object(PHC\Artigo)#447 (6) {
+    ["ref"]=>
+    string(6) "OETP16"
+    ["design"]=>
+    string(60) "Ocean Earth Fish Pad                                        "
+    ["epv1"]=>
+    string(9) "46.890000"
+    ["epv2"]=>
+    string(9) "46.890000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "23"
+  }
+  [331]=>
+  object(PHC\Artigo)#448 (6) {
+    ["ref"]=>
+    string(6) "OETP08"
+    ["design"]=>
+    string(60) "Ocean Earth Longboard tail Pad                              "
+    ["epv1"]=>
+    string(9) "59.900000"
+    ["epv2"]=>
+    string(9) "59.900000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "23"
+  }
+  [332]=>
+  object(PHC\Artigo)#449 (6) {
+    ["ref"]=>
+    string(6) "SARX19"
+    ["design"]=>
+    string(60) "Ocean Earth Tie Down Strap 14"                              "
+    ["epv1"]=>
+    string(9) "34.600000"
+    ["epv2"]=>
+    string(9) "34.600000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [333]=>
+  object(PHC\Artigo)#450 (6) {
+    ["ref"]=>
+    string(6) "AMMC23"
+    ["design"]=>
+    string(60) "Ocean Earth Dryseat waterproof car seat                     "
+    ["epv1"]=>
+    string(9) "54.000000"
+    ["epv2"]=>
+    string(9) "54.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "25"
+  }
+  [334]=>
+  object(PHC\Artigo)#451 (6) {
+    ["ref"]=>
+    string(6) "OELS10"
+    ["design"]=>
+    string(60) "Ocean Earth SUP 10´0 one piece Leash                        "
+    ["epv1"]=>
+    string(9) "49.000000"
+    ["epv2"]=>
+    string(9) "49.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [335]=>
+  object(PHC\Artigo)#452 (6) {
+    ["ref"]=>
+    string(6) "OELS11"
+    ["design"]=>
+    string(60) "Ocean Earth SUP Coil 10´0 one piece Leash                   "
+    ["epv1"]=>
+    string(9) "57.000000"
+    ["epv2"]=>
+    string(9) "57.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [336]=>
+  object(PHC\Artigo)#453 (6) {
+    ["ref"]=>
+    string(6) "1111.0"
+    ["design"]=>
+    string(60) "Ocean Sunglasses Mentaway                                   "
+    ["epv1"]=>
+    string(9) "76.000000"
+    ["epv2"]=>
+    string(9) "76.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "17"
+  }
+  [337]=>
+  object(PHC\Artigo)#454 (6) {
+    ["ref"]=>
+    string(6) "4444.0"
+    ["design"]=>
+    string(60) "Ocean Sunglasses Leash                                      "
+    ["epv1"]=>
+    string(8) "4.000000"
+    ["epv2"]=>
+    string(8) "4.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(0) ""
+  }
+  [338]=>
+  object(PHC\Artigo)#455 (6) {
+    ["ref"]=>
+    string(10) "48130-8335"
+    ["design"]=>
+    string(60) "ION - Surf Waist Harness Jade                               "
+    ["epv1"]=>
+    string(10) "149.000000"
+    ["epv2"]=>
+    string(10) "149.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "19"
+  }
+  [339]=>
+  object(PHC\Artigo)#456 (6) {
+    ["ref"]=>
+    string(10) "48130-8323"
+    ["design"]=>
+    string(60) "ION - Surf Waist Harness Ruler                              "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "19"
+  }
+  [340]=>
+  object(PHC\Artigo)#457 (6) {
+    ["ref"]=>
+    string(6) "0GC200"
+    ["design"]=>
+    string(60) "Gun Boom Cross 200-250                                      "
+    ["epv1"]=>
+    string(10) "189.000000"
+    ["epv2"]=>
+    string(10) "189.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "16"
+  }
+  [341]=>
+  object(PHC\Artigo)#458 (6) {
+    ["ref"]=>
+    string(6) "3MC400"
+    ["design"]=>
+    string(60) "Gun Cross 400                                               "
+    ["epv1"]=>
+    string(10) "226.000000"
+    ["epv2"]=>
+    string(10) "226.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "17"
+  }
+  [342]=>
+  object(PHC\Artigo)#459 (6) {
+    ["ref"]=>
+    string(6) "3MC370"
+    ["design"]=>
+    string(60) "Gun Cross 370                                               "
+    ["epv1"]=>
+    string(10) "206.000000"
+    ["epv2"]=>
+    string(10) "206.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "17"
+  }
+  [343]=>
+  object(PHC\Artigo)#460 (6) {
+    ["ref"]=>
+    string(7) "9ZMV300"
+    ["design"]=>
+    string(60) "Gun Extensor Classic 300                                    "
+    ["epv1"]=>
+    string(9) "36.000000"
+    ["epv2"]=>
+    string(9) "36.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [344]=>
+  object(PHC\Artigo)#461 (6) {
+    ["ref"]=>
+    string(7) "9ZMV450"
+    ["design"]=>
+    string(60) "Gun Extensor Classic 450                                    "
+    ["epv1"]=>
+    string(9) "41.000000"
+    ["epv2"]=>
+    string(9) "41.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [345]=>
+  object(PHC\Artigo)#462 (6) {
+    ["ref"]=>
+    string(8) "9ZMVLC45"
+    ["design"]=>
+    string(60) "Gun Extensor RDM Classic 450                                "
+    ["epv1"]=>
+    string(9) "41.000000"
+    ["epv2"]=>
+    string(9) "41.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "22"
+  }
+  [346]=>
+  object(PHC\Artigo)#463 (6) {
+    ["ref"]=>
+    string(3) "F4N"
+    ["design"]=>
+    string(60) "Vector 2 f4 natural comp (437)                              "
+    ["epv1"]=>
+    string(9) "32.500000"
+    ["epv2"]=>
+    string(9) "32.500000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "35"
+  }
+  [347]=>
+  object(PHC\Artigo)#464 (6) {
+    ["ref"]=>
+    string(3) "FF4"
+    ["design"]=>
+    string(60) "Vector 2 f4 437 Quad natural comp 375 1/2                   "
+    ["epv1"]=>
+    string(9) "42.500000"
+    ["epv2"]=>
+    string(9) "42.500000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "35"
+  }
+  [348]=>
+  object(PHC\Artigo)#465 (6) {
+    ["ref"]=>
+    string(7) "FAM1GBL"
+    ["design"]=>
+    string(60) "al merrick 1 fiberglass blu (450)                           "
+    ["epv1"]=>
+    string(9) "79.900000"
+    ["epv2"]=>
+    string(9) "79.900000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "35"
+  }
+  [349]=>
+  object(PHC\Artigo)#466 (6) {
+    ["ref"]=>
+    string(10) "FV2CRTMHEX"
+    ["design"]=>
+    string(60) "vector 2 chilli rtm hex core red                            "
+    ["epv1"]=>
+    string(9) "87.000000"
+    ["epv2"]=>
+    string(9) "87.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "35"
+  }
+  [350]=>
+  object(PHC\Artigo)#467 (6) {
+    ["ref"]=>
+    string(10) "F4RTMCBHEX"
+    ["design"]=>
+    string(60) "f4 Quad RTM Hex core clear black                            "
+    ["epv1"]=>
+    string(9) "99.900000"
+    ["epv2"]=>
+    string(9) "99.900000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "35"
+  }
+  [351]=>
+  object(PHC\Artigo)#468 (6) {
+    ["ref"]=>
+    string(7) "F4RTMTF"
+    ["design"]=>
+    string(60) "f4 rtm hex Techflex                                         "
+    ["epv1"]=>
+    string(9) "99.900000"
+    ["epv2"]=>
+    string(9) "99.900000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "35"
+  }
+  [352]=>
+  object(PHC\Artigo)#469 (6) {
+    ["ref"]=>
+    string(9) "AM-3PCTRI"
+    ["design"]=>
+    string(60) "FCS Fins AM-3 PC Tri                                        "
+    ["epv1"]=>
+    string(9) "90.000000"
+    ["epv2"]=>
+    string(9) "90.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "35"
+  }
+  [353]=>
+  object(PHC\Artigo)#470 (6) {
+    ["ref"]=>
+    string(8) "GAMPCTRI"
+    ["design"]=>
+    string(60) "FCS Fins GAM PC Tri                                         "
+    ["epv1"]=>
+    string(9) "90.000000"
+    ["epv2"]=>
+    string(9) "90.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "35"
+  }
+  [354]=>
+  object(PHC\Artigo)#471 (6) {
+    ["ref"]=>
+    string(7) "M3GREEN"
+    ["design"]=>
+    string(60) "FCS Fins M3 Green Flex tri                                  "
+    ["epv1"]=>
+    string(9) "60.000000"
+    ["epv2"]=>
+    string(9) "60.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "35"
+  }
+  [355]=>
+  object(PHC\Artigo)#472 (6) {
+    ["ref"]=>
+    string(7) "M5GREEN"
+    ["design"]=>
+    string(60) "FCS Fins M5 Green Flex tri                                  "
+    ["epv1"]=>
+    string(9) "60.000000"
+    ["epv2"]=>
+    string(9) "60.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [356]=>
+  object(PHC\Artigo)#473 (6) {
+    ["ref"]=>
+    string(5) "Q-PC3"
+    ["design"]=>
+    string(60) "FCS Fins Q-PC3                                              "
+    ["epv1"]=>
+    string(10) "105.000000"
+    ["epv2"]=>
+    string(10) "105.000000"
+    ["texteis"]=>
+    string(1) "0"
+    ["idfamilia"]=>
+    string(2) "24"
+  }
+  [357]=>
+  object(PHC\Artigo)#474 (6) {
+    ["ref"]=>
+    string(9) "BB241WS04"
+    ["design"]=>
+    string(60) "BB Xero Pro4X3 Cz Ls Furnace Lining                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [358]=>
+  object(PHC\Artigo)#475 (6) {
+    ["ref"]=>
+    string(9) "BB241WS07"
+    ["design"]=>
+    string(60) "BB Xero Revolution 4X3 Cz Ls                                "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [359]=>
+  object(PHC\Artigo)#476 (6) {
+    ["ref"]=>
+    string(9) "BB241WS08"
+    ["design"]=>
+    string(60) "BB Xero Revolution 4X3 Bz Ls                                "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [360]=>
+  object(PHC\Artigo)#477 (6) {
+    ["ref"]=>
+    string(9) "BB241WS09"
+    ["design"]=>
+    string(60) "BB Foil 4X3 Cz Ls                                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [361]=>
+  object(PHC\Artigo)#478 (6) {
+    ["ref"]=>
+    string(9) "BB242WS04"
+    ["design"]=>
+    string(60) "BB Foil 4X3 "Ez C/Zip" Full  Boy                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [362]=>
+  object(PHC\Artigo)#479 (6) {
+    ["ref"]=>
+    string(9) "BB243WS05"
+    ["design"]=>
+    string(60) "Fato BB Xero Revolution 5/4 CZ Girl                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [363]=>
+  object(PHC\Artigo)#480 (6) {
+    ["ref"]=>
+    string(9) "BB241WS10"
+    ["design"]=>
+    string(60) "BB Foil 4X3 Bz Ls With Barrier                              "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [364]=>
+  object(PHC\Artigo)#481 (6) {
+    ["ref"]=>
+    string(8) "ESA816MG"
+    ["design"]=>
+    string(60) "Quiksilver Syncro split toe boot                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [365]=>
+  object(PHC\Artigo)#482 (6) {
+    ["ref"]=>
+    string(6) "N4BT58"
+    ["design"]=>
+    string(60) "Xcel Infiniti Boots 3mm                                     "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "36"
+  }
+  [366]=>
+  object(PHC\Artigo)#483 (6) {
+    ["ref"]=>
+    string(6) "EAQYFL"
+    ["design"]=>
+    string(60) "Quiksilver Cypher 4/3 CZ                                    "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [367]=>
+  object(PHC\Artigo)#484 (6) {
+    ["ref"]=>
+    string(6) "N4INX4"
+    ["design"]=>
+    string(60) "Xcel Infiniti X 2 4/3                                       "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [368]=>
+  object(PHC\Artigo)#485 (6) {
+    ["ref"]=>
+    string(6) "N4ZXB4"
+    ["design"]=>
+    string(60) "Xcel Axis X2 boy                                            "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [369]=>
+  object(PHC\Artigo)#486 (6) {
+    ["ref"]=>
+    string(6) "N41WX4"
+    ["design"]=>
+    string(60) "Xcel Infiniti xZip2 comp 4/3 Girl                           "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+  [370]=>
+  object(PHC\Artigo)#487 (6) {
+    ["ref"]=>
+    string(9) "444003004"
+    ["design"]=>
+    string(60) "NKB 2014 - Neo                                              "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(1) "7"
+  }
+  [371]=>
+  object(PHC\Artigo)#488 (6) {
+    ["ref"]=>
+    string(10) "48110-4104"
+    ["design"]=>
+    string(60) "Vest - Booster 2014                                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "38"
+  }
+  [372]=>
+  object(PHC\Artigo)#489 (6) {
+    ["ref"]=>
+    string(9) "BB262WS05"
+    ["design"]=>
+    string(60) "BB Foil Boys 4/3 cz                                         "
+    ["epv1"]=>
+    string(8) "0.000000"
+    ["epv2"]=>
+    string(8) "0.000000"
+    ["texteis"]=>
+    string(1) "1"
+    ["idfamilia"]=>
+    string(2) "32"
+  }
+}

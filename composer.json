@@ -1,0 +1,10 @@
+{
+    "require": {
+        "monolog/monolog": "1.2.*",
+        "swiftmailer/swiftmailer": "*"
+    },
+    
+    "autoload": {
+        "psr-0": {"": "src/"}
+    }
+}

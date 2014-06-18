@@ -1,0 +1,24 @@
+[Base]
+appname = PHC Magento Sinc
+logfile = app.log
+
+[Microsoft SQL Server]
+hostname = jmp
+database = vianalocals
+username = sa
+password = password
+
+[Mail Error Notify]
+SMTPServer = mail.josemariapinto.pt
+SMTPPort = 25
+SMTPUsername = jpinto@josemariapinto.pt
+SMTPPassword = thujePE3
+ErrorSubject = PHC Magento Sinc - Vianalocals
+ErrorMailFrom = geral@vianalocals.com
+ErrorMailTo = bluecor@gmail.com
+
+[Magento]
+SOAP_User=phc
+SOAP_API_Key=123456
+WDSL=http://www.ignissoftware.com/magento/api/v2_soap/?wsdl
+
