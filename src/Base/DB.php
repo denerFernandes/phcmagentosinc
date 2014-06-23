@@ -1,6 +1,6 @@
 <?php
 /**
- * Classe que controla o interface com Huawei
+ * Classe com a configuração de acesso à base de dados
  *
  * @author   jose pinto <bluecor@gmail.com>
  */

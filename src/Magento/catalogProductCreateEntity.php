@@ -2,14 +2,25 @@
 namespace Magento;
 
 use PHC\ArtigosList;
+
+/**
+ * Classe para mapear as propriedades de um item do catalog Magento
+ *
+ * @author   jose pinto <bluecor@gmail.com>
+ *
+ */
 class catalogProductCreateEntity 
 {
+    /**
+     *  @todo mapear todas as constante do catalog
+     */
     const CATALOG_SEARCH = 4;
     const NOT_VISIBLE_INDIVIDUALLY = 1;
     
     const CONFIGURABLE = 'configurable';
     const SIMPLE = 'simple';
     
+    // propriedades a mapear com o Magento
     public $product_id;
     public $sku;
     public $name;
@@ -26,11 +37,15 @@ class catalogProductCreateEntity
     public $special_price;
     public $additional_attributes;
      
-    // private!!
+    // private!! estas propriedades nao são mapeadas para o catalog
     private $attributeset;
     private $product_type;
     private $basesku;
      
+    /**
+     * constructor cria um item de catalog magento dado um artigo do PHC
+     * deveria ter um Decorator
+     */
     public function __construct(\PHC\Artigo $item)
     {
         $this->sku = $item->getRef();

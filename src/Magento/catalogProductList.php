@@ -9,6 +9,12 @@ use Base\Log;
 use Base\DB;
 use Base\MagentoConnection;
 
+/**
+ * Classe com uma coleção de items Catalog Magento
+ *
+ * @author   jose pinto <bluecor@gmail.com>
+ *
+ */
 class catalogProductList
 {
 	const MEMCACHED_FETCH_ALL = 'catalogProductList::fetchAll';
@@ -19,7 +25,9 @@ class catalogProductList
     // resulta data array of catalogProductEntity
     private $data;
     
-    // array of catalogProductEntity
+    // Lista de item a remover, acrescentar e actualizar no magento
+    // arrays of catalogProductEntity
+    // @todo não é a melhor maneira de gerir as diferencas
     private $newProducts;
     private $removeProducts;
     private $updateProducts;
@@ -42,7 +50,8 @@ class catalogProductList
     }
     
     /**
-     * searchs and cores
+     * Procurar todos os artigos do magento
+     * guarda em memoria (memcached) se este existir
      */
     public function fetchAll()
     {
@@ -60,6 +69,11 @@ class catalogProductList
     	}
     }
     
+    /**
+     * Comparação directa se o produto phc existe nesta lista (pela referencia)
+     * @param PHC\Artigo $product
+     * @return boolean
+     */
     public function existsProduct($product)
     {
     	$exists = false;
@@ -75,13 +89,16 @@ class catalogProductList
     } 
     
     /**
-     * Retorna lista de cores em uso
+     * Retorna lista de items do catalog Magento
      */
     public function getList()
     {
         return $this->data;
     }
     
+    /**
+     * Actualiza a base de dados do Magento
+     */
 	public function save() 
 	{
 		$this->saveNewProducts();
@@ -90,6 +107,9 @@ class catalogProductList
 		$this->destroyCache(); 
 	}
 	
+	/**
+	 * Remove items do catalogo Magento
+	 */
 	private function saveRemoveProducts()
 	{
 		if (count($this->removeProducts) > 0) {
@@ -104,6 +124,9 @@ class catalogProductList
 		$this->removeProducts = array();
 	}
 	
+	/**
+	 * Insere novos item no catalogo do Magento
+	 */
 	private function saveNewProducts()
 	{
 		if (count($this->newProducts) > 0) {
@@ -118,6 +141,9 @@ class catalogProductList
 		$this->newProducts = array();		
 	}
 	
+	/**
+	 * Actualiza item do catalago Magento
+	 */
 	private function saveUpdateProducts()
 	{
 		if (count($this->newProducts) > 0) {
@@ -130,6 +156,9 @@ class catalogProductList
 		$this->newProducts = array();
 	}
 	
+	/**
+	 * Limpa a cache da lista de item
+	 */
 	private function destroyCache()
 	{
 		$memcache = new \Memcached();
@@ -138,16 +167,28 @@ class catalogProductList
 		$cache_data = $memcache->delete($key);
 	}
 	
+	/**
+	 * Acrescenta item a lista
+	 * @param PHC\Artigo $product
+	 */
 	public function addProduct($product) 
 	{
 		$this->newProducts[] = $product;
 	}
 	
+	/**
+	 * Acrescenta um item à lista de item a remover
+	 * @param PHC\Artigo $product
+	 */
 	public function removeProduct($product)
 	{
 		$this->removeProducts[] = $product;
 	}
 	
+	/**
+	 * Acrescenta item a lista de artigos que é para actualizar
+	 * @param PHC\Artigo $product
+	 */
 	public function updateProduct($product)
 	{
 		$this->updateProducts[] = $product;

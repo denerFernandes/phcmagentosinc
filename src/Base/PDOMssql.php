@@ -1,9 +1,14 @@
 <?php
-
 namespace Base;
 
 use PDO;
 
+/**
+ * Wrapper experimental
+ * 
+ * @author   jose pinto <bluecor@gmail.com>
+ *
+ */
 class PDOMssql extends PDO
 {
     

@@ -1,5 +1,7 @@
 <?php
 /**
+ * Classe com a configuração e instancia unica ao webservice do Magento
+ * 
  * @author   jose pinto <bluecor@gmail.com>
  */
 namespace Base;

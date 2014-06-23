@@ -1,11 +1,11 @@
 <?php
+namespace PHC;
+
 /**
- * Classe that manage sequence numbers for export files
+ * Classe que mapea um artigo da base de dados do PHC
  *
  * @author   jose pinto <bluecor@gmail.com>
  */
-namespace PHC;
-
 class Artigo
 {
 	// properties
@@ -72,12 +72,14 @@ class Artigo
 	
 	public function getEpv1()
 	{
+	    // o preco de venda 1 é de um campo diferente se o produto tiver grelha
 	    $epv = ($this->texteis == 1 ? $this->epv1 : $this->sxepv1);
 	    return $epv;
 	}
 	
 	public function getEpv2()
 	{
+	    // semelhante ao preço 1
 	    $epv = ($this->texteis == 1 ? $this->epv2 : $this->sxepv2);
 	    return $epv;
 	}

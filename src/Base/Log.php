@@ -1,6 +1,6 @@
 <?php
 /**
- * Classe com a configuração da aplicação
+ * Classe com a configuração e instancia unica de log
 *
 * @author   jose pinto <bluecor@gmail.com>
 */

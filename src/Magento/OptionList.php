@@ -9,6 +9,11 @@ use Base\Log;
 use Base\DB;
 use Base\MagentoConnection;
 
+/**
+ * Classe que mantem uma lista de opcoes do magento
+ * 
+ * @author   jose pinto <bluecor@gmail.com>
+ */
 class OptionList implements OptionListInterface
 {
     // log instance
@@ -20,6 +25,7 @@ class OptionList implements OptionListInterface
     private $attribute;
     
     // array of catalogAttributeOptionEntity
+    // lista de operaçoes a efectuar no Magento
     private $newOptions;
     private $delOptions;
     
@@ -28,7 +34,6 @@ class OptionList implements OptionListInterface
     private $sessionid;
     
     /**
-     * 
      * Get app instance for DB connection and Log
      */
     function __construct()
@@ -58,7 +63,7 @@ class OptionList implements OptionListInterface
     }
     
     /**
-     * searchs and cores
+     * Procura todas as opcoes de um attribute
      */
     public function fetchAll($attribute)
     {
@@ -97,7 +102,8 @@ class OptionList implements OptionListInterface
     } 
     
     /**
-     * Retorna lista de cores em uso
+     * Retorna array com a lista das opcoes
+     * @return array items de catalogAttributeOptionEntity
      */
     public function getList()
     {
@@ -111,9 +117,9 @@ class OptionList implements OptionListInterface
     
 	public function save() 
 	{
+	    // se existir novas opcoes inserir
 		if (count($this->newOptions) > 0) {
-			
-			// inserir as novas
+		
 			foreach ($this->newOptions as $option) {
 				
 				$label = array(
@@ -136,9 +142,9 @@ class OptionList implements OptionListInterface
 			
 		}
 		
+		// e agora apagar as opcoes que nao existem
 		if (count($this->delOptions) > 0) {
 				
-			// inserir as novas
 			foreach ($this->delOptions as $option) {
 		
 				$result = $this->client->catalogProductAttributeRemoveOption($this->sessionid, $this->attribute, $option->value);
@@ -148,9 +154,13 @@ class OptionList implements OptionListInterface
 				
 		}
 				
+		// se houve modificacoes no magento, destruimos a cache
 		if (count($this->delOptions) > 0 || count($this->newOptions) > 0) { $this->destroyCache(); }
 	}
 	
+	/**
+	 * Limpa a cache de opcoes deste attributo 
+	 */
 	private function destroyCache()
 	{
 		$memcache = new \Memcached();
@@ -159,12 +169,12 @@ class OptionList implements OptionListInterface
 		$cache_data = $memcache->delete($key);
 	}
 	
-	public function addOption($Option) 
+	private function addOption($Option) 
 	{
 		$this->newOptions[] = new catalogAttributeOptionEntity($this->attribute, $Option, '');
 	}
 	
-	public function delOption($option)
+	private function delOption($option)
 	{
 		$this->delOptions[] = $option;
 	}
