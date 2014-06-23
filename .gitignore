@@ -2,6 +2,6 @@ build/
 docs/
 reports/
 vendor/
-phcmagentosinc.log
+app.log
 composer.lock
 config.ini
