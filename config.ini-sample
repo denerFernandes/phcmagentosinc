@@ -20,5 +20,5 @@ ErrorMailTo = bluecor@gmail.com
 [Magento]
 SOAP_User=phc
 SOAP_API_Key=123456
-WDSL=http://www.ignissoftware.com/magento/api/v2_soap/?wsdl
+WDSL=http://www.magento.com/magento/api/v2_soap/?wsdl
 

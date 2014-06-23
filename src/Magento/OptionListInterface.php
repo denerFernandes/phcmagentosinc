@@ -46,7 +46,7 @@ interface OptionListInterface
 	
 	/**
 	 * marca esta opcao para apagar
-	 * @param \Magento\catalogAttributeOptionEntity[] $option $Option
+	 * @param \Magento\catalogAttributeOptionEntity[] $option
 	 */
 	private function delOption($option);
 	

@@ -1,12 +1,14 @@
 <?php
-/**
- * @author   jose pinto <bluecor@gmail.com>
- */
 namespace PHC;
 
+/**
+ * Classe que mapeia a tabela de tamanhos do PHC
+ * 
+ * @author   jose pinto <bluecor@gmail.com>
+ */
 class Tamanho
 {
-	// properties
+	// unica propriedade da tabela
 	private $tam;
 
 	public function setTam($tam)

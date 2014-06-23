@@ -13,7 +13,6 @@ use Base\MagentoConnection;
  * Classe com uma coleção de items Catalog Magento
  *
  * @author   jose pinto <bluecor@gmail.com>
- *
  */
 class catalogProductList
 {

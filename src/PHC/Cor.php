@@ -1,14 +1,14 @@
 <?php
+namespace PHC;
+
 /**
- * Classe that manage sequence numbers for export files
+ * Classe para mapear tabela de cores do PHC 
  *
  * @author   jose pinto <bluecor@gmail.com>
  */
-namespace PHC;
-
 class Cor
 {
-	// properties
+	// unica propriedade, cor em texto
 	private $cor;
 
 	public function setCor($cor)
