@@ -70,7 +70,7 @@ class catalogProductList
     
     /**
      * Comparação directa se o produto phc existe nesta lista (pela referencia)
-     * @param PHC\Artigo $product
+     * @param \PHC\Artigo $product
      * @return boolean
      */
     public function existsProduct($product)
@@ -109,7 +109,7 @@ class catalogProductList
 	/**
 	 * Remove items do catalogo Magento
 	 */
-	private function saveRemoveProducts()
+	protected function saveRemoveProducts()
 	{
 		if (count($this->removeProducts) > 0) {
 		
@@ -126,7 +126,7 @@ class catalogProductList
 	/**
 	 * Insere novos item no catalogo do Magento
 	 */
-	private function saveNewProducts()
+	protected function saveNewProducts()
 	{
 		if (count($this->newProducts) > 0) {
 			// create new product in catalog
@@ -143,7 +143,7 @@ class catalogProductList
 	/**
 	 * Actualiza item do catalago Magento
 	 */
-	private function saveUpdateProducts()
+	protected function saveUpdateProducts()
 	{
 		if (count($this->newProducts) > 0) {
 			// inserir as novas
@@ -170,7 +170,7 @@ class catalogProductList
 	 * Acrescenta item a lista
 	 * @param PHC\Artigo $product
 	 */
-	public function addProduct($product) 
+	private function addProduct($product) 
 	{
 		$this->newProducts[] = $product;
 	}
@@ -179,16 +179,16 @@ class catalogProductList
 	 * Acrescenta um item à lista de item a remover
 	 * @param PHC\Artigo $product
 	 */
-	public function removeProduct($product)
+	private function removeProduct($product)
 	{
 		$this->removeProducts[] = $product;
 	}
 	
 	/**
 	 * Acrescenta item a lista de artigos que é para actualizar
-	 * @param PHC\Artigo $product
+	 * @param \PHC\Artigo $product
 	 */
-	public function updateProduct($product)
+	private function updateProduct($product)
 	{
 		$this->updateProducts[] = $product;
 	}

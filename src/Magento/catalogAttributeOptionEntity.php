@@ -5,7 +5,6 @@ namespace Magento;
  * Classe para mapear attributos de um item de catalog Magento
  * 
  * @author   jose pinto <bluecor@gmail.com>
- *
  */
 class catalogAttributeOptionEntity
 {
