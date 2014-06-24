@@ -1,8 +1,4 @@
 <?php
-/**
- *
-* @author   jose pinto <bluecor@gmail.com>
-*/
 namespace Sinc;
 
 use PHC\ArtigosList;
@@ -17,6 +13,14 @@ use Magento\catalogProductCreateEntity;
 use Magento\catalogProductList;
 use PHC\CorList;
 
+/**
+ * Classe que faz o sincronismo dos produtos do PHC para
+ * os respectivos items do catalog Magento
+ *
+ * Esta classe está pronta para transformar colocar numa fila de trabalho REDIS
+ *
+ * @author   jose pinto <bluecor@gmail.com>
+ */
 class Produtos
 {
 	// log handle Monolog\Logger
@@ -32,6 +36,14 @@ class Produtos
 	}
 
 	/**
+	 * Sincroniza os produtos.
+	 * 
+	 * Funcionamento:
+	 * 1 Retira o Catalog do Magento para memoria (usa cache)
+	 * 2 Retira a Lista de produtos do PHC
+	 * 3 Procura no PHC artigos de NAO EXISTAM no magento (acrescenta item à lista)
+	 * 4 Procura no MAGENTO items que NAO EXISTEM no PHC (acrescenta item à lista de remover)
+	 * 5 Guarda as alterações na base de dados
 	 */
 	public function perform()
 	{

@@ -9,6 +9,11 @@ use PDO;
 use Base\Log;
 use Base\DB;
 
+/**
+ * Classe que mapea uma lista de cores
+ *
+ * @author   jose pinto <bluecor@gmail.com>
+ */
 class CorList 
 {
     // database handle
@@ -42,12 +47,13 @@ class CorList
     }
     
     /**
-     * searchs and cores
+     * retira todas as cores do PHC 
      */
     public function searchAllActive()
     {
         try {
         	if ($this->recordCount == 0) {
+        	    // @todo falta passar para view
     	    	$query = "SELECT cor FROM sgc WHERE ref in (SELECT ref FROM st WHERE u_nanet = 1) GROUP BY cor";
     	    	$sth = $this->dbh->prepare($query);
     	    	$sth->execute();
@@ -63,13 +69,17 @@ class CorList
     
     /**
      * Retorna lista de cores em uso
-     * @return array of PHC\Cor objects 
+     * @return \PHC\Cor[] array de objecos
      */
     public function getList()
     {
         return $this->data;
     }
     
+    /**
+     * Retorna o numero de registos nesta lista
+     * @return int 
+     */
     public function getListCount()
     {
         return $this->recordCount;
